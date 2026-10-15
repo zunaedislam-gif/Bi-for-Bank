@@ -1,0 +1,12 @@
+pipeline_run_id,entity_type,record_id,severity,rule_name,details,action_taken
+RUN-INIT-01,transactions,TXN-0000001,ERROR,DUPLICATE_PRIMARY_KEY,Duplicate transaction_id detected: TXN-0000001,Quarantined
+RUN-INIT-01,transactions,TXN-0000016,ERROR,DUPLICATE_PRIMARY_KEY,Duplicate transaction_id detected: TXN-0000016,Quarantined
+RUN-INIT-01,transactions,TXN-0000031,ERROR,DUPLICATE_PRIMARY_KEY,Duplicate transaction_id detected: TXN-0000031,Quarantined
+RUN-INIT-01,transactions,TXN-0000046,ERROR,DUPLICATE_PRIMARY_KEY,Duplicate transaction_id detected: TXN-0000046,Quarantined
+RUN-INIT-01,transactions,TXN-ERR-1,ERROR,NEGATIVE_AMOUNT_CHECK,Transaction amount cannot be negative (-150.00),Quarantined
+RUN-INIT-01,transactions,TXN-ERR-2,ERROR,NEGATIVE_AMOUNT_CHECK,Transaction amount cannot be negative (-150.00),Quarantined
+RUN-INIT-01,transactions,TXN-ERR-3,ERROR,NEGATIVE_AMOUNT_CHECK,Transaction amount cannot be negative (-150.00),Quarantined
+RUN-INIT-01,loans,LN-ERR-1,WARNING,INVALID_DAYS_PAST_DUE,"Days past due is negative (-15), imputed to 0",Imputed
+RUN-INIT-01,loans,LN-ERR-2,WARNING,INVALID_DAYS_PAST_DUE,"Days past due is negative (-15), imputed to 0",Imputed
+RUN-INIT-01,customers,CUST-FUT-1,ERROR,FUTURE_DATE_BOUNDARY,Customer onboarding date (2029-05-14) is beyond current reporting window,Excluded
+RUN-INIT-01,customers,CUST-FUT-2,ERROR,FUTURE_DATE_BOUNDARY,Customer onboarding date (2029-05-14) is beyond current reporting window,Excluded

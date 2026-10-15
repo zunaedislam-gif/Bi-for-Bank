@@ -1,0 +1,9 @@
+branch_id,branch_name,region,opening_date,operating_cost
+BR-101,Downtown Financial Center,North,2016-03-15,48500.0
+BR-102,Metro North Commercial,North,2018-07-01,39200.0
+BR-201,Sunbelt Gateway Hub,South,2017-11-20,42100.0
+BR-202,Harbor Tech District,South,2020-02-10,45800.0
+BR-301,Atlantic Seaboard Branch,East,2015-05-12,51200.0
+BR-302,Capital Hill Plaza,East,2019-09-08,37600.0
+BR-401,Pacific Bay Exchange,West,2014-01-22,54000.0
+BR-402,Cascade Innovation Hub,West,2021-04-18,36500.0

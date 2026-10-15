@@ -1,0 +1,6 @@
+{
+  "name": "BankBI — Banking Business Intelligence & Branch Performance Analytics",
+  "description": "Enterprise-grade banking intelligence platform for branch performance, deposit trends, loan portfolio risk, customer segmentation, product adoption, and data quality assurance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

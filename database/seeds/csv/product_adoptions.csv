@@ -1,0 +1,1388 @@
+adoption_id,customer_id,product_type,enrollment_date,product_status
+PRD-000001,CUST-00001,Visa Signature Credit Card,2024-02-17,Active
+PRD-000002,CUST-00002,Automated Bill Pay,2023-05-17,Active
+PRD-000003,CUST-00003,Visa Signature Credit Card,2020-01-14,Active
+PRD-000004,CUST-00003,Merchant Card Processing,2020-01-14,Active
+PRD-000005,CUST-00003,Automated Bill Pay,2020-01-14,Active
+PRD-000006,CUST-00003,Online Banking,2020-01-14,Active
+PRD-000007,CUST-00004,Visa Signature Credit Card,2020-07-28,Active
+PRD-000008,CUST-00005,Wealth Advisory,2020-03-29,Active
+PRD-000009,CUST-00005,Visa Signature Credit Card,2020-03-29,Active
+PRD-000010,CUST-00006,Wealth Advisory,2024-08-25,Active
+PRD-000011,CUST-00006,Merchant Card Processing,2024-08-25,Active
+PRD-000012,CUST-00007,Automated Bill Pay,2021-04-11,Active
+PRD-000013,CUST-00007,Merchant Card Processing,2021-04-11,Active
+PRD-000014,CUST-00008,Wealth Advisory,2024-09-04,Active
+PRD-000015,CUST-00008,Online Banking,2024-09-04,Active
+PRD-000016,CUST-00009,Online Banking,2023-10-31,Active
+PRD-000017,CUST-00009,Mobile Banking App,2023-10-31,Active
+PRD-000018,CUST-00009,Visa Signature Credit Card,2023-10-31,Active
+PRD-000019,CUST-00009,Merchant Card Processing,2023-10-31,Active
+PRD-000020,CUST-00010,Visa Signature Credit Card,2021-07-06,Active
+PRD-000021,CUST-00010,Merchant Card Processing,2021-07-06,Active
+PRD-000022,CUST-00010,Automated Bill Pay,2021-07-06,Active
+PRD-000023,CUST-00010,Mobile Banking App,2021-07-06,Active
+PRD-000024,CUST-00010,Online Banking,2021-07-06,Active
+PRD-000025,CUST-00011,Online Banking,2020-03-06,Active
+PRD-000026,CUST-00011,Wealth Advisory,2020-03-06,Active
+PRD-000027,CUST-00011,Automated Bill Pay,2020-03-06,Active
+PRD-000028,CUST-00012,Mobile Banking App,2024-11-29,Active
+PRD-000029,CUST-00012,Visa Signature Credit Card,2024-11-29,Active
+PRD-000030,CUST-00013,Visa Signature Credit Card,2022-07-28,Active
+PRD-000031,CUST-00013,Mobile Banking App,2022-07-28,Active
+PRD-000032,CUST-00014,Mobile Banking App,2023-04-12,Active
+PRD-000033,CUST-00015,Online Banking,2020-07-05,Cancelled
+PRD-000034,CUST-00015,Mobile Banking App,2020-07-05,Cancelled
+PRD-000035,CUST-00015,Wealth Advisory,2020-07-05,Cancelled
+PRD-000036,CUST-00016,Online Banking,2020-05-10,Active
+PRD-000037,CUST-00016,Mobile Banking App,2020-05-10,Active
+PRD-000038,CUST-00016,Automated Bill Pay,2020-05-10,Active
+PRD-000039,CUST-00016,Wealth Advisory,2020-05-10,Active
+PRD-000040,CUST-00017,Wealth Advisory,2020-01-24,Cancelled
+PRD-000041,CUST-00017,Merchant Card Processing,2020-01-24,Cancelled
+PRD-000042,CUST-00018,Merchant Card Processing,2020-11-19,Active
+PRD-000043,CUST-00018,Mobile Banking App,2020-11-19,Active
+PRD-000044,CUST-00018,Visa Signature Credit Card,2020-11-19,Active
+PRD-000045,CUST-00018,Automated Bill Pay,2020-11-19,Active
+PRD-000046,CUST-00019,Online Banking,2022-10-22,Cancelled
+PRD-000047,CUST-00019,Merchant Card Processing,2022-10-22,Cancelled
+PRD-000048,CUST-00019,Automated Bill Pay,2022-10-22,Cancelled
+PRD-000049,CUST-00020,Mobile Banking App,2023-06-01,Active
+PRD-000050,CUST-00020,Visa Signature Credit Card,2023-06-01,Active
+PRD-000051,CUST-00021,Merchant Card Processing,2022-12-22,Active
+PRD-000052,CUST-00022,Online Banking,2024-08-30,Cancelled
+PRD-000053,CUST-00022,Visa Signature Credit Card,2024-08-30,Cancelled
+PRD-000054,CUST-00023,Automated Bill Pay,2024-02-07,Active
+PRD-000055,CUST-00023,Online Banking,2024-02-07,Active
+PRD-000056,CUST-00023,Wealth Advisory,2024-02-07,Active
+PRD-000057,CUST-00023,Mobile Banking App,2024-02-07,Active
+PRD-000058,CUST-00024,Visa Signature Credit Card,2021-06-26,Active
+PRD-000059,CUST-00024,Wealth Advisory,2021-06-26,Active
+PRD-000060,CUST-00024,Online Banking,2021-06-26,Active
+PRD-000061,CUST-00025,Automated Bill Pay,2023-12-31,Active
+PRD-000062,CUST-00025,Mobile Banking App,2023-12-31,Active
+PRD-000063,CUST-00025,Merchant Card Processing,2023-12-31,Active
+PRD-000064,CUST-00026,Online Banking,2022-11-25,Active
+PRD-000065,CUST-00026,Visa Signature Credit Card,2022-11-25,Active
+PRD-000066,CUST-00026,Mobile Banking App,2022-11-25,Active
+PRD-000067,CUST-00026,Automated Bill Pay,2022-11-25,Active
+PRD-000068,CUST-00027,Mobile Banking App,2023-02-08,Active
+PRD-000069,CUST-00027,Wealth Advisory,2023-02-08,Active
+PRD-000070,CUST-00027,Online Banking,2023-02-08,Active
+PRD-000071,CUST-00027,Visa Signature Credit Card,2023-02-08,Active
+PRD-000072,CUST-00028,Mobile Banking App,2020-03-05,Active
+PRD-000073,CUST-00028,Automated Bill Pay,2020-03-05,Active
+PRD-000074,CUST-00029,Mobile Banking App,2024-01-21,Active
+PRD-000075,CUST-00029,Online Banking,2024-01-21,Active
+PRD-000076,CUST-00030,Wealth Advisory,2020-07-17,Active
+PRD-000077,CUST-00030,Online Banking,2020-07-17,Active
+PRD-000078,CUST-00031,Mobile Banking App,2020-04-20,Active
+PRD-000079,CUST-00031,Merchant Card Processing,2020-04-20,Active
+PRD-000080,CUST-00031,Wealth Advisory,2020-04-20,Active
+PRD-000081,CUST-00032,Automated Bill Pay,2021-05-24,Active
+PRD-000082,CUST-00033,Online Banking,2024-11-25,Active
+PRD-000083,CUST-00033,Merchant Card Processing,2024-11-25,Active
+PRD-000084,CUST-00034,Wealth Advisory,2020-07-10,Cancelled
+PRD-000085,CUST-00034,Automated Bill Pay,2020-07-10,Cancelled
+PRD-000086,CUST-00034,Visa Signature Credit Card,2020-07-10,Cancelled
+PRD-000087,CUST-00034,Merchant Card Processing,2020-07-10,Cancelled
+PRD-000088,CUST-00035,Mobile Banking App,2020-04-30,Active
+PRD-000089,CUST-00035,Visa Signature Credit Card,2020-04-30,Active
+PRD-000090,CUST-00036,Online Banking,2022-07-20,Active
+PRD-000091,CUST-00036,Automated Bill Pay,2022-07-20,Active
+PRD-000092,CUST-00036,Wealth Advisory,2022-07-20,Active
+PRD-000093,CUST-00036,Visa Signature Credit Card,2022-07-20,Active
+PRD-000094,CUST-00036,Merchant Card Processing,2022-07-20,Active
+PRD-000095,CUST-00037,Visa Signature Credit Card,2023-09-17,Active
+PRD-000096,CUST-00037,Merchant Card Processing,2023-09-17,Active
+PRD-000097,CUST-00038,Visa Signature Credit Card,2024-02-15,Active
+PRD-000098,CUST-00038,Wealth Advisory,2024-02-15,Active
+PRD-000099,CUST-00038,Mobile Banking App,2024-02-15,Active
+PRD-000100,CUST-00039,Online Banking,2024-10-12,Active
+PRD-000101,CUST-00039,Mobile Banking App,2024-10-12,Active
+PRD-000102,CUST-00039,Merchant Card Processing,2024-10-12,Active
+PRD-000103,CUST-00040,Merchant Card Processing,2023-05-03,Active
+PRD-000104,CUST-00040,Visa Signature Credit Card,2023-05-03,Active
+PRD-000105,CUST-00041,Visa Signature Credit Card,2023-03-31,Cancelled
+PRD-000106,CUST-00041,Wealth Advisory,2023-03-31,Cancelled
+PRD-000107,CUST-00042,Automated Bill Pay,2021-06-18,Active
+PRD-000108,CUST-00042,Online Banking,2021-06-18,Active
+PRD-000109,CUST-00042,Wealth Advisory,2021-06-18,Active
+PRD-000110,CUST-00043,Visa Signature Credit Card,2022-07-25,Active
+PRD-000111,CUST-00043,Wealth Advisory,2022-07-25,Active
+PRD-000112,CUST-00044,Visa Signature Credit Card,2020-05-30,Cancelled
+PRD-000113,CUST-00044,Merchant Card Processing,2020-05-30,Cancelled
+PRD-000114,CUST-00044,Online Banking,2020-05-30,Cancelled
+PRD-000115,CUST-00045,Merchant Card Processing,2021-05-15,Active
+PRD-000116,CUST-00046,Merchant Card Processing,2024-07-10,Active
+PRD-000117,CUST-00047,Visa Signature Credit Card,2021-06-25,Active
+PRD-000118,CUST-00047,Merchant Card Processing,2021-06-25,Active
+PRD-000119,CUST-00047,Automated Bill Pay,2021-06-25,Active
+PRD-000120,CUST-00047,Online Banking,2021-06-25,Active
+PRD-000121,CUST-00048,Mobile Banking App,2021-03-07,Active
+PRD-000122,CUST-00048,Automated Bill Pay,2021-03-07,Active
+PRD-000123,CUST-00048,Wealth Advisory,2021-03-07,Active
+PRD-000124,CUST-00049,Online Banking,2022-09-27,Active
+PRD-000125,CUST-00050,Online Banking,2021-11-14,Cancelled
+PRD-000126,CUST-00050,Automated Bill Pay,2021-11-14,Cancelled
+PRD-000127,CUST-00051,Mobile Banking App,2020-01-20,Active
+PRD-000128,CUST-00051,Wealth Advisory,2020-01-20,Active
+PRD-000129,CUST-00052,Automated Bill Pay,2020-03-14,Active
+PRD-000130,CUST-00052,Merchant Card Processing,2020-03-14,Active
+PRD-000131,CUST-00053,Visa Signature Credit Card,2024-06-18,Active
+PRD-000132,CUST-00053,Wealth Advisory,2024-06-18,Active
+PRD-000133,CUST-00053,Mobile Banking App,2024-06-18,Active
+PRD-000134,CUST-00054,Mobile Banking App,2023-02-20,Active
+PRD-000135,CUST-00054,Merchant Card Processing,2023-02-20,Active
+PRD-000136,CUST-00055,Automated Bill Pay,2022-04-24,Cancelled
+PRD-000137,CUST-00055,Visa Signature Credit Card,2022-04-24,Cancelled
+PRD-000138,CUST-00055,Merchant Card Processing,2022-04-24,Cancelled
+PRD-000139,CUST-00055,Mobile Banking App,2022-04-24,Cancelled
+PRD-000140,CUST-00056,Merchant Card Processing,2024-06-30,Active
+PRD-000141,CUST-00056,Online Banking,2024-06-30,Active
+PRD-000142,CUST-00056,Wealth Advisory,2024-06-30,Active
+PRD-000143,CUST-00056,Automated Bill Pay,2024-06-30,Active
+PRD-000144,CUST-00057,Wealth Advisory,2024-11-21,Active
+PRD-000145,CUST-00057,Automated Bill Pay,2024-11-21,Active
+PRD-000146,CUST-00057,Online Banking,2024-11-21,Active
+PRD-000147,CUST-00057,Merchant Card Processing,2024-11-21,Active
+PRD-000148,CUST-00058,Merchant Card Processing,2024-08-07,Cancelled
+PRD-000149,CUST-00058,Mobile Banking App,2024-08-07,Cancelled
+PRD-000150,CUST-00058,Visa Signature Credit Card,2024-08-07,Cancelled
+PRD-000151,CUST-00059,Merchant Card Processing,2020-05-22,Active
+PRD-000152,CUST-00059,Mobile Banking App,2020-05-22,Active
+PRD-000153,CUST-00060,Merchant Card Processing,2020-02-26,Cancelled
+PRD-000154,CUST-00060,Automated Bill Pay,2020-02-26,Cancelled
+PRD-000155,CUST-00060,Online Banking,2020-02-26,Cancelled
+PRD-000156,CUST-00060,Wealth Advisory,2020-02-26,Cancelled
+PRD-000157,CUST-00060,Mobile Banking App,2020-02-26,Cancelled
+PRD-000158,CUST-00061,Wealth Advisory,2023-05-06,Cancelled
+PRD-000159,CUST-00061,Automated Bill Pay,2023-05-06,Cancelled
+PRD-000160,CUST-00061,Visa Signature Credit Card,2023-05-06,Cancelled
+PRD-000161,CUST-00061,Online Banking,2023-05-06,Cancelled
+PRD-000162,CUST-00061,Merchant Card Processing,2023-05-06,Cancelled
+PRD-000163,CUST-00062,Mobile Banking App,2023-03-26,Cancelled
+PRD-000164,CUST-00063,Automated Bill Pay,2023-01-07,Active
+PRD-000165,CUST-00063,Online Banking,2023-01-07,Active
+PRD-000166,CUST-00064,Automated Bill Pay,2021-11-07,Active
+PRD-000167,CUST-00064,Merchant Card Processing,2021-11-07,Active
+PRD-000168,CUST-00064,Visa Signature Credit Card,2021-11-07,Active
+PRD-000169,CUST-00064,Mobile Banking App,2021-11-07,Active
+PRD-000170,CUST-00065,Visa Signature Credit Card,2022-04-16,Active
+PRD-000171,CUST-00065,Merchant Card Processing,2022-04-16,Active
+PRD-000172,CUST-00066,Mobile Banking App,2023-09-23,Active
+PRD-000173,CUST-00066,Online Banking,2023-09-23,Active
+PRD-000174,CUST-00066,Merchant Card Processing,2023-09-23,Active
+PRD-000175,CUST-00067,Online Banking,2021-03-06,Cancelled
+PRD-000176,CUST-00067,Mobile Banking App,2021-03-06,Cancelled
+PRD-000177,CUST-00067,Visa Signature Credit Card,2021-03-06,Cancelled
+PRD-000178,CUST-00068,Visa Signature Credit Card,2024-06-13,Active
+PRD-000179,CUST-00068,Online Banking,2024-06-13,Active
+PRD-000180,CUST-00069,Mobile Banking App,2020-07-10,Active
+PRD-000181,CUST-00069,Automated Bill Pay,2020-07-10,Active
+PRD-000182,CUST-00070,Online Banking,2022-08-31,Active
+PRD-000183,CUST-00071,Merchant Card Processing,2024-01-11,Cancelled
+PRD-000184,CUST-00071,Automated Bill Pay,2024-01-11,Cancelled
+PRD-000185,CUST-00071,Visa Signature Credit Card,2024-01-11,Cancelled
+PRD-000186,CUST-00072,Online Banking,2024-03-17,Active
+PRD-000187,CUST-00072,Automated Bill Pay,2024-03-17,Active
+PRD-000188,CUST-00072,Visa Signature Credit Card,2024-03-17,Active
+PRD-000189,CUST-00073,Wealth Advisory,2020-04-12,Cancelled
+PRD-000190,CUST-00073,Automated Bill Pay,2020-04-12,Cancelled
+PRD-000191,CUST-00074,Visa Signature Credit Card,2023-02-18,Active
+PRD-000192,CUST-00074,Online Banking,2023-02-18,Active
+PRD-000193,CUST-00074,Automated Bill Pay,2023-02-18,Active
+PRD-000194,CUST-00075,Merchant Card Processing,2024-08-28,Active
+PRD-000195,CUST-00075,Visa Signature Credit Card,2024-08-28,Active
+PRD-000196,CUST-00075,Mobile Banking App,2024-08-28,Active
+PRD-000197,CUST-00076,Online Banking,2021-05-21,Active
+PRD-000198,CUST-00076,Automated Bill Pay,2021-05-21,Active
+PRD-000199,CUST-00076,Merchant Card Processing,2021-05-21,Active
+PRD-000200,CUST-00077,Merchant Card Processing,2021-07-16,Active
+PRD-000201,CUST-00077,Visa Signature Credit Card,2021-07-16,Active
+PRD-000202,CUST-00077,Mobile Banking App,2021-07-16,Active
+PRD-000203,CUST-00077,Wealth Advisory,2021-07-16,Active
+PRD-000204,CUST-00078,Visa Signature Credit Card,2023-01-11,Active
+PRD-000205,CUST-00078,Merchant Card Processing,2023-01-11,Active
+PRD-000206,CUST-00079,Automated Bill Pay,2021-03-14,Active
+PRD-000207,CUST-00079,Wealth Advisory,2021-03-14,Active
+PRD-000208,CUST-00080,Wealth Advisory,2024-09-01,Active
+PRD-000209,CUST-00080,Mobile Banking App,2024-09-01,Active
+PRD-000210,CUST-00081,Visa Signature Credit Card,2020-01-13,Active
+PRD-000211,CUST-00081,Mobile Banking App,2020-01-13,Active
+PRD-000212,CUST-00081,Wealth Advisory,2020-01-13,Active
+PRD-000213,CUST-00081,Online Banking,2020-01-13,Active
+PRD-000214,CUST-00082,Mobile Banking App,2022-05-08,Cancelled
+PRD-000215,CUST-00082,Wealth Advisory,2022-05-08,Cancelled
+PRD-000216,CUST-00082,Merchant Card Processing,2022-05-08,Cancelled
+PRD-000217,CUST-00082,Online Banking,2022-05-08,Cancelled
+PRD-000218,CUST-00083,Automated Bill Pay,2022-03-07,Active
+PRD-000219,CUST-00083,Wealth Advisory,2022-03-07,Active
+PRD-000220,CUST-00084,Merchant Card Processing,2022-12-29,Cancelled
+PRD-000221,CUST-00084,Visa Signature Credit Card,2022-12-29,Cancelled
+PRD-000222,CUST-00085,Mobile Banking App,2022-05-27,Active
+PRD-000223,CUST-00085,Merchant Card Processing,2022-05-27,Active
+PRD-000224,CUST-00085,Wealth Advisory,2022-05-27,Active
+PRD-000225,CUST-00085,Visa Signature Credit Card,2022-05-27,Active
+PRD-000226,CUST-00086,Online Banking,2021-10-31,Active
+PRD-000227,CUST-00086,Mobile Banking App,2021-10-31,Active
+PRD-000228,CUST-00087,Wealth Advisory,2020-06-16,Cancelled
+PRD-000229,CUST-00088,Wealth Advisory,2021-04-04,Active
+PRD-000230,CUST-00088,Merchant Card Processing,2021-04-04,Active
+PRD-000231,CUST-00089,Merchant Card Processing,2021-05-21,Active
+PRD-000232,CUST-00090,Automated Bill Pay,2020-08-22,Active
+PRD-000233,CUST-00090,Online Banking,2020-08-22,Active
+PRD-000234,CUST-00091,Online Banking,2023-05-28,Active
+PRD-000235,CUST-00091,Merchant Card Processing,2023-05-28,Active
+PRD-000236,CUST-00091,Automated Bill Pay,2023-05-28,Active
+PRD-000237,CUST-00091,Visa Signature Credit Card,2023-05-28,Active
+PRD-000238,CUST-00091,Wealth Advisory,2023-05-28,Active
+PRD-000239,CUST-00092,Online Banking,2021-09-30,Active
+PRD-000240,CUST-00092,Visa Signature Credit Card,2021-09-30,Active
+PRD-000241,CUST-00092,Mobile Banking App,2021-09-30,Active
+PRD-000242,CUST-00093,Online Banking,2023-11-15,Active
+PRD-000243,CUST-00094,Merchant Card Processing,2024-07-07,Active
+PRD-000244,CUST-00094,Online Banking,2024-07-07,Active
+PRD-000245,CUST-00094,Mobile Banking App,2024-07-07,Active
+PRD-000246,CUST-00094,Automated Bill Pay,2024-07-07,Active
+PRD-000247,CUST-00095,Mobile Banking App,2023-08-19,Active
+PRD-000248,CUST-00095,Visa Signature Credit Card,2023-08-19,Active
+PRD-000249,CUST-00095,Automated Bill Pay,2023-08-19,Active
+PRD-000250,CUST-00095,Merchant Card Processing,2023-08-19,Active
+PRD-000251,CUST-00095,Online Banking,2023-08-19,Active
+PRD-000252,CUST-00096,Online Banking,2023-07-25,Active
+PRD-000253,CUST-00096,Automated Bill Pay,2023-07-25,Active
+PRD-000254,CUST-00097,Merchant Card Processing,2021-07-07,Active
+PRD-000255,CUST-00097,Automated Bill Pay,2021-07-07,Active
+PRD-000256,CUST-00097,Online Banking,2021-07-07,Active
+PRD-000257,CUST-00098,Online Banking,2024-10-10,Active
+PRD-000258,CUST-00099,Automated Bill Pay,2023-06-03,Active
+PRD-000259,CUST-00100,Online Banking,2022-09-25,Active
+PRD-000260,CUST-00100,Automated Bill Pay,2022-09-25,Active
+PRD-000261,CUST-00100,Wealth Advisory,2022-09-25,Active
+PRD-000262,CUST-00101,Online Banking,2021-07-19,Cancelled
+PRD-000263,CUST-00101,Mobile Banking App,2021-07-19,Cancelled
+PRD-000264,CUST-00102,Mobile Banking App,2024-04-01,Active
+PRD-000265,CUST-00103,Wealth Advisory,2022-04-08,Active
+PRD-000266,CUST-00103,Mobile Banking App,2022-04-08,Active
+PRD-000267,CUST-00103,Visa Signature Credit Card,2022-04-08,Active
+PRD-000268,CUST-00103,Merchant Card Processing,2022-04-08,Active
+PRD-000269,CUST-00104,Merchant Card Processing,2021-12-05,Active
+PRD-000270,CUST-00104,Wealth Advisory,2021-12-05,Active
+PRD-000271,CUST-00104,Online Banking,2021-12-05,Active
+PRD-000272,CUST-00105,Mobile Banking App,2020-09-04,Active
+PRD-000273,CUST-00105,Online Banking,2020-09-04,Active
+PRD-000274,CUST-00105,Merchant Card Processing,2020-09-04,Active
+PRD-000275,CUST-00105,Automated Bill Pay,2020-09-04,Active
+PRD-000276,CUST-00106,Visa Signature Credit Card,2023-11-14,Active
+PRD-000277,CUST-00106,Online Banking,2023-11-14,Active
+PRD-000278,CUST-00106,Merchant Card Processing,2023-11-14,Active
+PRD-000279,CUST-00107,Visa Signature Credit Card,2024-04-05,Active
+PRD-000280,CUST-00108,Automated Bill Pay,2022-01-09,Cancelled
+PRD-000281,CUST-00108,Mobile Banking App,2022-01-09,Cancelled
+PRD-000282,CUST-00109,Wealth Advisory,2020-04-21,Active
+PRD-000283,CUST-00109,Automated Bill Pay,2020-04-21,Active
+PRD-000284,CUST-00110,Merchant Card Processing,2020-01-26,Active
+PRD-000285,CUST-00110,Wealth Advisory,2020-01-26,Active
+PRD-000286,CUST-00110,Mobile Banking App,2020-01-26,Active
+PRD-000287,CUST-00111,Automated Bill Pay,2021-06-01,Active
+PRD-000288,CUST-00111,Visa Signature Credit Card,2021-06-01,Active
+PRD-000289,CUST-00111,Merchant Card Processing,2021-06-01,Active
+PRD-000290,CUST-00112,Visa Signature Credit Card,2020-04-19,Active
+PRD-000291,CUST-00113,Merchant Card Processing,2022-05-02,Active
+PRD-000292,CUST-00113,Visa Signature Credit Card,2022-05-02,Active
+PRD-000293,CUST-00113,Automated Bill Pay,2022-05-02,Active
+PRD-000294,CUST-00113,Wealth Advisory,2022-05-02,Active
+PRD-000295,CUST-00114,Online Banking,2022-05-28,Active
+PRD-000296,CUST-00115,Visa Signature Credit Card,2023-09-14,Active
+PRD-000297,CUST-00115,Mobile Banking App,2023-09-14,Active
+PRD-000298,CUST-00115,Wealth Advisory,2023-09-14,Active
+PRD-000299,CUST-00116,Merchant Card Processing,2022-04-16,Active
+PRD-000300,CUST-00116,Wealth Advisory,2022-04-16,Active
+PRD-000301,CUST-00116,Online Banking,2022-04-16,Active
+PRD-000302,CUST-00116,Automated Bill Pay,2022-04-16,Active
+PRD-000303,CUST-00117,Merchant Card Processing,2024-10-26,Active
+PRD-000304,CUST-00117,Visa Signature Credit Card,2024-10-26,Active
+PRD-000305,CUST-00117,Mobile Banking App,2024-10-26,Active
+PRD-000306,CUST-00117,Online Banking,2024-10-26,Active
+PRD-000307,CUST-00118,Mobile Banking App,2023-09-16,Active
+PRD-000308,CUST-00118,Wealth Advisory,2023-09-16,Active
+PRD-000309,CUST-00118,Visa Signature Credit Card,2023-09-16,Active
+PRD-000310,CUST-00119,Wealth Advisory,2021-06-28,Active
+PRD-000311,CUST-00119,Merchant Card Processing,2021-06-28,Active
+PRD-000312,CUST-00119,Automated Bill Pay,2021-06-28,Active
+PRD-000313,CUST-00120,Automated Bill Pay,2023-03-11,Active
+PRD-000314,CUST-00120,Visa Signature Credit Card,2023-03-11,Active
+PRD-000315,CUST-00120,Mobile Banking App,2023-03-11,Active
+PRD-000316,CUST-00120,Merchant Card Processing,2023-03-11,Active
+PRD-000317,CUST-00121,Wealth Advisory,2021-07-11,Active
+PRD-000318,CUST-00121,Merchant Card Processing,2021-07-11,Active
+PRD-000319,CUST-00122,Automated Bill Pay,2021-10-22,Active
+PRD-000320,CUST-00122,Merchant Card Processing,2021-10-22,Active
+PRD-000321,CUST-00122,Wealth Advisory,2021-10-22,Active
+PRD-000322,CUST-00122,Visa Signature Credit Card,2021-10-22,Active
+PRD-000323,CUST-00123,Wealth Advisory,2023-03-24,Cancelled
+PRD-000324,CUST-00123,Online Banking,2023-03-24,Cancelled
+PRD-000325,CUST-00124,Merchant Card Processing,2022-11-28,Active
+PRD-000326,CUST-00124,Online Banking,2022-11-28,Active
+PRD-000327,CUST-00124,Mobile Banking App,2022-11-28,Active
+PRD-000328,CUST-00125,Online Banking,2022-10-04,Active
+PRD-000329,CUST-00125,Mobile Banking App,2022-10-04,Active
+PRD-000330,CUST-00125,Merchant Card Processing,2022-10-04,Active
+PRD-000331,CUST-00126,Automated Bill Pay,2020-11-25,Active
+PRD-000332,CUST-00126,Wealth Advisory,2020-11-25,Active
+PRD-000333,CUST-00126,Mobile Banking App,2020-11-25,Active
+PRD-000334,CUST-00127,Online Banking,2023-01-31,Cancelled
+PRD-000335,CUST-00128,Visa Signature Credit Card,2022-04-07,Active
+PRD-000336,CUST-00128,Mobile Banking App,2022-04-07,Active
+PRD-000337,CUST-00128,Merchant Card Processing,2022-04-07,Active
+PRD-000338,CUST-00129,Mobile Banking App,2024-03-29,Active
+PRD-000339,CUST-00129,Automated Bill Pay,2024-03-29,Active
+PRD-000340,CUST-00129,Wealth Advisory,2024-03-29,Active
+PRD-000341,CUST-00129,Online Banking,2024-03-29,Active
+PRD-000342,CUST-00130,Mobile Banking App,2022-06-16,Active
+PRD-000343,CUST-00130,Online Banking,2022-06-16,Active
+PRD-000344,CUST-00131,Online Banking,2023-12-24,Active
+PRD-000345,CUST-00131,Mobile Banking App,2023-12-24,Active
+PRD-000346,CUST-00132,Merchant Card Processing,2020-08-20,Active
+PRD-000347,CUST-00132,Wealth Advisory,2020-08-20,Active
+PRD-000348,CUST-00133,Online Banking,2021-07-13,Active
+PRD-000349,CUST-00133,Merchant Card Processing,2021-07-13,Active
+PRD-000350,CUST-00133,Automated Bill Pay,2021-07-13,Active
+PRD-000351,CUST-00134,Automated Bill Pay,2023-05-12,Active
+PRD-000352,CUST-00134,Mobile Banking App,2023-05-12,Active
+PRD-000353,CUST-00134,Online Banking,2023-05-12,Active
+PRD-000354,CUST-00134,Wealth Advisory,2023-05-12,Active
+PRD-000355,CUST-00135,Mobile Banking App,2024-06-01,Active
+PRD-000356,CUST-00135,Online Banking,2024-06-01,Active
+PRD-000357,CUST-00135,Merchant Card Processing,2024-06-01,Active
+PRD-000358,CUST-00136,Online Banking,2023-09-13,Active
+PRD-000359,CUST-00137,Mobile Banking App,2023-01-17,Active
+PRD-000360,CUST-00137,Wealth Advisory,2023-01-17,Active
+PRD-000361,CUST-00137,Merchant Card Processing,2023-01-17,Active
+PRD-000362,CUST-00138,Wealth Advisory,2022-02-23,Cancelled
+PRD-000363,CUST-00138,Merchant Card Processing,2022-02-23,Cancelled
+PRD-000364,CUST-00138,Visa Signature Credit Card,2022-02-23,Cancelled
+PRD-000365,CUST-00139,Merchant Card Processing,2024-07-19,Active
+PRD-000366,CUST-00139,Online Banking,2024-07-19,Active
+PRD-000367,CUST-00139,Visa Signature Credit Card,2024-07-19,Active
+PRD-000368,CUST-00139,Automated Bill Pay,2024-07-19,Active
+PRD-000369,CUST-00140,Online Banking,2023-04-23,Active
+PRD-000370,CUST-00140,Merchant Card Processing,2023-04-23,Active
+PRD-000371,CUST-00141,Automated Bill Pay,2020-10-22,Cancelled
+PRD-000372,CUST-00141,Mobile Banking App,2020-10-22,Cancelled
+PRD-000373,CUST-00142,Wealth Advisory,2023-11-19,Cancelled
+PRD-000374,CUST-00143,Merchant Card Processing,2021-10-10,Cancelled
+PRD-000375,CUST-00143,Wealth Advisory,2021-10-10,Cancelled
+PRD-000376,CUST-00143,Visa Signature Credit Card,2021-10-10,Cancelled
+PRD-000377,CUST-00143,Automated Bill Pay,2021-10-10,Cancelled
+PRD-000378,CUST-00144,Merchant Card Processing,2023-07-16,Active
+PRD-000379,CUST-00144,Mobile Banking App,2023-07-16,Active
+PRD-000380,CUST-00144,Wealth Advisory,2023-07-16,Active
+PRD-000381,CUST-00145,Online Banking,2020-07-20,Active
+PRD-000382,CUST-00145,Automated Bill Pay,2020-07-20,Active
+PRD-000383,CUST-00145,Wealth Advisory,2020-07-20,Active
+PRD-000384,CUST-00145,Merchant Card Processing,2020-07-20,Active
+PRD-000385,CUST-00146,Wealth Advisory,2020-04-04,Active
+PRD-000386,CUST-00146,Automated Bill Pay,2020-04-04,Active
+PRD-000387,CUST-00147,Mobile Banking App,2022-04-23,Active
+PRD-000388,CUST-00148,Mobile Banking App,2023-10-31,Active
+PRD-000389,CUST-00148,Automated Bill Pay,2023-10-31,Active
+PRD-000390,CUST-00148,Online Banking,2023-10-31,Active
+PRD-000391,CUST-00148,Visa Signature Credit Card,2023-10-31,Active
+PRD-000392,CUST-00149,Wealth Advisory,2023-09-27,Active
+PRD-000393,CUST-00149,Visa Signature Credit Card,2023-09-27,Active
+PRD-000394,CUST-00149,Merchant Card Processing,2023-09-27,Active
+PRD-000395,CUST-00149,Mobile Banking App,2023-09-27,Active
+PRD-000396,CUST-00150,Visa Signature Credit Card,2021-12-08,Active
+PRD-000397,CUST-00150,Wealth Advisory,2021-12-08,Active
+PRD-000398,CUST-00151,Online Banking,2022-02-26,Active
+PRD-000399,CUST-00151,Merchant Card Processing,2022-02-26,Active
+PRD-000400,CUST-00151,Automated Bill Pay,2022-02-26,Active
+PRD-000401,CUST-00151,Mobile Banking App,2022-02-26,Active
+PRD-000402,CUST-00152,Online Banking,2023-12-03,Active
+PRD-000403,CUST-00152,Mobile Banking App,2023-12-03,Active
+PRD-000404,CUST-00152,Visa Signature Credit Card,2023-12-03,Active
+PRD-000405,CUST-00153,Automated Bill Pay,2024-03-05,Active
+PRD-000406,CUST-00153,Online Banking,2024-03-05,Active
+PRD-000407,CUST-00154,Mobile Banking App,2021-03-24,Active
+PRD-000408,CUST-00155,Mobile Banking App,2023-09-12,Active
+PRD-000409,CUST-00155,Automated Bill Pay,2023-09-12,Active
+PRD-000410,CUST-00155,Merchant Card Processing,2023-09-12,Active
+PRD-000411,CUST-00155,Visa Signature Credit Card,2023-09-12,Active
+PRD-000412,CUST-00156,Visa Signature Credit Card,2022-06-21,Active
+PRD-000413,CUST-00156,Online Banking,2022-06-21,Active
+PRD-000414,CUST-00156,Automated Bill Pay,2022-06-21,Active
+PRD-000415,CUST-00157,Online Banking,2024-03-10,Active
+PRD-000416,CUST-00157,Merchant Card Processing,2024-03-10,Active
+PRD-000417,CUST-00157,Visa Signature Credit Card,2024-03-10,Active
+PRD-000418,CUST-00157,Automated Bill Pay,2024-03-10,Active
+PRD-000419,CUST-00158,Online Banking,2022-01-19,Active
+PRD-000420,CUST-00158,Visa Signature Credit Card,2022-01-19,Active
+PRD-000421,CUST-00158,Automated Bill Pay,2022-01-19,Active
+PRD-000422,CUST-00159,Automated Bill Pay,2024-07-09,Cancelled
+PRD-000423,CUST-00159,Mobile Banking App,2024-07-09,Cancelled
+PRD-000424,CUST-00159,Visa Signature Credit Card,2024-07-09,Cancelled
+PRD-000425,CUST-00159,Merchant Card Processing,2024-07-09,Cancelled
+PRD-000426,CUST-00160,Mobile Banking App,2021-04-07,Active
+PRD-000427,CUST-00160,Online Banking,2021-04-07,Active
+PRD-000428,CUST-00160,Visa Signature Credit Card,2021-04-07,Active
+PRD-000429,CUST-00161,Merchant Card Processing,2020-09-10,Active
+PRD-000430,CUST-00161,Automated Bill Pay,2020-09-10,Active
+PRD-000431,CUST-00161,Online Banking,2020-09-10,Active
+PRD-000432,CUST-00161,Visa Signature Credit Card,2020-09-10,Active
+PRD-000433,CUST-00162,Automated Bill Pay,2020-08-09,Cancelled
+PRD-000434,CUST-00162,Wealth Advisory,2020-08-09,Cancelled
+PRD-000435,CUST-00163,Automated Bill Pay,2023-06-03,Cancelled
+PRD-000436,CUST-00163,Online Banking,2023-06-03,Cancelled
+PRD-000437,CUST-00163,Visa Signature Credit Card,2023-06-03,Cancelled
+PRD-000438,CUST-00163,Merchant Card Processing,2023-06-03,Cancelled
+PRD-000439,CUST-00164,Online Banking,2020-10-13,Active
+PRD-000440,CUST-00164,Merchant Card Processing,2020-10-13,Active
+PRD-000441,CUST-00164,Mobile Banking App,2020-10-13,Active
+PRD-000442,CUST-00164,Automated Bill Pay,2020-10-13,Active
+PRD-000443,CUST-00164,Visa Signature Credit Card,2020-10-13,Active
+PRD-000444,CUST-00165,Automated Bill Pay,2023-01-05,Active
+PRD-000445,CUST-00165,Merchant Card Processing,2023-01-05,Active
+PRD-000446,CUST-00166,Wealth Advisory,2023-01-11,Cancelled
+PRD-000447,CUST-00166,Mobile Banking App,2023-01-11,Cancelled
+PRD-000448,CUST-00166,Visa Signature Credit Card,2023-01-11,Cancelled
+PRD-000449,CUST-00167,Automated Bill Pay,2021-07-26,Cancelled
+PRD-000450,CUST-00167,Wealth Advisory,2021-07-26,Cancelled
+PRD-000451,CUST-00167,Online Banking,2021-07-26,Cancelled
+PRD-000452,CUST-00167,Visa Signature Credit Card,2021-07-26,Cancelled
+PRD-000453,CUST-00168,Mobile Banking App,2020-07-22,Cancelled
+PRD-000454,CUST-00168,Merchant Card Processing,2020-07-22,Cancelled
+PRD-000455,CUST-00168,Online Banking,2020-07-22,Cancelled
+PRD-000456,CUST-00168,Wealth Advisory,2020-07-22,Cancelled
+PRD-000457,CUST-00169,Online Banking,2024-10-02,Active
+PRD-000458,CUST-00169,Merchant Card Processing,2024-10-02,Active
+PRD-000459,CUST-00169,Mobile Banking App,2024-10-02,Active
+PRD-000460,CUST-00169,Wealth Advisory,2024-10-02,Active
+PRD-000461,CUST-00170,Online Banking,2024-05-30,Active
+PRD-000462,CUST-00170,Wealth Advisory,2024-05-30,Active
+PRD-000463,CUST-00170,Visa Signature Credit Card,2024-05-30,Active
+PRD-000464,CUST-00170,Merchant Card Processing,2024-05-30,Active
+PRD-000465,CUST-00170,Mobile Banking App,2024-05-30,Active
+PRD-000466,CUST-00171,Online Banking,2023-02-09,Active
+PRD-000467,CUST-00171,Visa Signature Credit Card,2023-02-09,Active
+PRD-000468,CUST-00172,Visa Signature Credit Card,2024-06-03,Active
+PRD-000469,CUST-00172,Online Banking,2024-06-03,Active
+PRD-000470,CUST-00172,Automated Bill Pay,2024-06-03,Active
+PRD-000471,CUST-00173,Merchant Card Processing,2023-01-11,Cancelled
+PRD-000472,CUST-00173,Wealth Advisory,2023-01-11,Cancelled
+PRD-000473,CUST-00174,Visa Signature Credit Card,2024-06-05,Active
+PRD-000474,CUST-00174,Wealth Advisory,2024-06-05,Active
+PRD-000475,CUST-00174,Mobile Banking App,2024-06-05,Active
+PRD-000476,CUST-00174,Online Banking,2024-06-05,Active
+PRD-000477,CUST-00174,Automated Bill Pay,2024-06-05,Active
+PRD-000478,CUST-00175,Visa Signature Credit Card,2022-12-13,Active
+PRD-000479,CUST-00176,Wealth Advisory,2022-07-14,Active
+PRD-000480,CUST-00176,Merchant Card Processing,2022-07-14,Active
+PRD-000481,CUST-00176,Mobile Banking App,2022-07-14,Active
+PRD-000482,CUST-00177,Visa Signature Credit Card,2021-09-09,Cancelled
+PRD-000483,CUST-00177,Automated Bill Pay,2021-09-09,Cancelled
+PRD-000484,CUST-00177,Merchant Card Processing,2021-09-09,Cancelled
+PRD-000485,CUST-00177,Mobile Banking App,2021-09-09,Cancelled
+PRD-000486,CUST-00178,Merchant Card Processing,2023-11-06,Active
+PRD-000487,CUST-00179,Automated Bill Pay,2020-05-14,Active
+PRD-000488,CUST-00179,Wealth Advisory,2020-05-14,Active
+PRD-000489,CUST-00179,Visa Signature Credit Card,2020-05-14,Active
+PRD-000490,CUST-00179,Merchant Card Processing,2020-05-14,Active
+PRD-000491,CUST-00180,Automated Bill Pay,2022-11-01,Active
+PRD-000492,CUST-00181,Merchant Card Processing,2024-12-02,Active
+PRD-000493,CUST-00182,Merchant Card Processing,2024-08-21,Cancelled
+PRD-000494,CUST-00182,Automated Bill Pay,2024-08-21,Cancelled
+PRD-000495,CUST-00183,Mobile Banking App,2021-06-06,Active
+PRD-000496,CUST-00184,Wealth Advisory,2020-06-23,Active
+PRD-000497,CUST-00184,Mobile Banking App,2020-06-23,Active
+PRD-000498,CUST-00184,Merchant Card Processing,2020-06-23,Active
+PRD-000499,CUST-00184,Online Banking,2020-06-23,Active
+PRD-000500,CUST-00185,Wealth Advisory,2020-05-02,Active
+PRD-000501,CUST-00185,Merchant Card Processing,2020-05-02,Active
+PRD-000502,CUST-00186,Wealth Advisory,2024-03-16,Active
+PRD-000503,CUST-00186,Merchant Card Processing,2024-03-16,Active
+PRD-000504,CUST-00186,Automated Bill Pay,2024-03-16,Active
+PRD-000505,CUST-00186,Online Banking,2024-03-16,Active
+PRD-000506,CUST-00187,Merchant Card Processing,2021-03-11,Active
+PRD-000507,CUST-00187,Online Banking,2021-03-11,Active
+PRD-000508,CUST-00187,Wealth Advisory,2021-03-11,Active
+PRD-000509,CUST-00188,Mobile Banking App,2020-08-23,Active
+PRD-000510,CUST-00188,Wealth Advisory,2020-08-23,Active
+PRD-000511,CUST-00188,Visa Signature Credit Card,2020-08-23,Active
+PRD-000512,CUST-00188,Online Banking,2020-08-23,Active
+PRD-000513,CUST-00189,Visa Signature Credit Card,2024-08-03,Cancelled
+PRD-000514,CUST-00189,Automated Bill Pay,2024-08-03,Cancelled
+PRD-000515,CUST-00189,Wealth Advisory,2024-08-03,Cancelled
+PRD-000516,CUST-00190,Online Banking,2020-02-29,Active
+PRD-000517,CUST-00190,Visa Signature Credit Card,2020-02-29,Active
+PRD-000518,CUST-00190,Wealth Advisory,2020-02-29,Active
+PRD-000519,CUST-00190,Merchant Card Processing,2020-02-29,Active
+PRD-000520,CUST-00190,Automated Bill Pay,2020-02-29,Active
+PRD-000521,CUST-00191,Merchant Card Processing,2020-10-20,Active
+PRD-000522,CUST-00191,Mobile Banking App,2020-10-20,Active
+PRD-000523,CUST-00191,Visa Signature Credit Card,2020-10-20,Active
+PRD-000524,CUST-00192,Automated Bill Pay,2020-07-06,Active
+PRD-000525,CUST-00193,Online Banking,2024-01-17,Active
+PRD-000526,CUST-00193,Visa Signature Credit Card,2024-01-17,Active
+PRD-000527,CUST-00193,Wealth Advisory,2024-01-17,Active
+PRD-000528,CUST-00193,Mobile Banking App,2024-01-17,Active
+PRD-000529,CUST-00194,Online Banking,2020-06-16,Active
+PRD-000530,CUST-00194,Mobile Banking App,2020-06-16,Active
+PRD-000531,CUST-00195,Merchant Card Processing,2024-03-26,Active
+PRD-000532,CUST-00196,Visa Signature Credit Card,2022-09-23,Active
+PRD-000533,CUST-00196,Merchant Card Processing,2022-09-23,Active
+PRD-000534,CUST-00196,Mobile Banking App,2022-09-23,Active
+PRD-000535,CUST-00196,Online Banking,2022-09-23,Active
+PRD-000536,CUST-00197,Online Banking,2021-02-22,Cancelled
+PRD-000537,CUST-00197,Visa Signature Credit Card,2021-02-22,Cancelled
+PRD-000538,CUST-00198,Online Banking,2022-10-15,Active
+PRD-000539,CUST-00198,Visa Signature Credit Card,2022-10-15,Active
+PRD-000540,CUST-00198,Wealth Advisory,2022-10-15,Active
+PRD-000541,CUST-00198,Mobile Banking App,2022-10-15,Active
+PRD-000542,CUST-00199,Merchant Card Processing,2022-10-21,Active
+PRD-000543,CUST-00199,Visa Signature Credit Card,2022-10-21,Active
+PRD-000544,CUST-00200,Online Banking,2022-07-30,Active
+PRD-000545,CUST-00200,Merchant Card Processing,2022-07-30,Active
+PRD-000546,CUST-00201,Visa Signature Credit Card,2020-08-23,Active
+PRD-000547,CUST-00201,Mobile Banking App,2020-08-23,Active
+PRD-000548,CUST-00201,Automated Bill Pay,2020-08-23,Active
+PRD-000549,CUST-00201,Wealth Advisory,2020-08-23,Active
+PRD-000550,CUST-00202,Wealth Advisory,2023-11-13,Cancelled
+PRD-000551,CUST-00202,Merchant Card Processing,2023-11-13,Cancelled
+PRD-000552,CUST-00202,Mobile Banking App,2023-11-13,Cancelled
+PRD-000553,CUST-00202,Visa Signature Credit Card,2023-11-13,Cancelled
+PRD-000554,CUST-00203,Visa Signature Credit Card,2022-12-09,Active
+PRD-000555,CUST-00203,Automated Bill Pay,2022-12-09,Active
+PRD-000556,CUST-00203,Wealth Advisory,2022-12-09,Active
+PRD-000557,CUST-00203,Online Banking,2022-12-09,Active
+PRD-000558,CUST-00204,Online Banking,2024-05-14,Active
+PRD-000559,CUST-00204,Automated Bill Pay,2024-05-14,Active
+PRD-000560,CUST-00205,Merchant Card Processing,2024-05-08,Active
+PRD-000561,CUST-00205,Visa Signature Credit Card,2024-05-08,Active
+PRD-000562,CUST-00205,Online Banking,2024-05-08,Active
+PRD-000563,CUST-00205,Wealth Advisory,2024-05-08,Active
+PRD-000564,CUST-00206,Mobile Banking App,2023-05-18,Active
+PRD-000565,CUST-00206,Wealth Advisory,2023-05-18,Active
+PRD-000566,CUST-00206,Visa Signature Credit Card,2023-05-18,Active
+PRD-000567,CUST-00206,Online Banking,2023-05-18,Active
+PRD-000568,CUST-00207,Automated Bill Pay,2023-02-28,Active
+PRD-000569,CUST-00207,Online Banking,2023-02-28,Active
+PRD-000570,CUST-00207,Wealth Advisory,2023-02-28,Active
+PRD-000571,CUST-00207,Merchant Card Processing,2023-02-28,Active
+PRD-000572,CUST-00208,Online Banking,2023-07-03,Cancelled
+PRD-000573,CUST-00208,Mobile Banking App,2023-07-03,Cancelled
+PRD-000574,CUST-00209,Wealth Advisory,2024-06-18,Active
+PRD-000575,CUST-00209,Automated Bill Pay,2024-06-18,Active
+PRD-000576,CUST-00210,Mobile Banking App,2020-04-26,Active
+PRD-000577,CUST-00210,Visa Signature Credit Card,2020-04-26,Active
+PRD-000578,CUST-00210,Merchant Card Processing,2020-04-26,Active
+PRD-000579,CUST-00210,Online Banking,2020-04-26,Active
+PRD-000580,CUST-00210,Automated Bill Pay,2020-04-26,Active
+PRD-000581,CUST-00211,Online Banking,2023-05-01,Cancelled
+PRD-000582,CUST-00211,Visa Signature Credit Card,2023-05-01,Cancelled
+PRD-000583,CUST-00211,Automated Bill Pay,2023-05-01,Cancelled
+PRD-000584,CUST-00211,Wealth Advisory,2023-05-01,Cancelled
+PRD-000585,CUST-00212,Merchant Card Processing,2020-03-25,Cancelled
+PRD-000586,CUST-00212,Wealth Advisory,2020-03-25,Cancelled
+PRD-000587,CUST-00212,Automated Bill Pay,2020-03-25,Cancelled
+PRD-000588,CUST-00212,Mobile Banking App,2020-03-25,Cancelled
+PRD-000589,CUST-00212,Visa Signature Credit Card,2020-03-25,Cancelled
+PRD-000590,CUST-00213,Automated Bill Pay,2022-07-11,Active
+PRD-000591,CUST-00213,Visa Signature Credit Card,2022-07-11,Active
+PRD-000592,CUST-00213,Online Banking,2022-07-11,Active
+PRD-000593,CUST-00213,Wealth Advisory,2022-07-11,Active
+PRD-000594,CUST-00213,Mobile Banking App,2022-07-11,Active
+PRD-000595,CUST-00214,Mobile Banking App,2022-06-15,Active
+PRD-000596,CUST-00214,Automated Bill Pay,2022-06-15,Active
+PRD-000597,CUST-00214,Merchant Card Processing,2022-06-15,Active
+PRD-000598,CUST-00214,Visa Signature Credit Card,2022-06-15,Active
+PRD-000599,CUST-00215,Wealth Advisory,2021-11-23,Active
+PRD-000600,CUST-00215,Visa Signature Credit Card,2021-11-23,Active
+PRD-000601,CUST-00215,Merchant Card Processing,2021-11-23,Active
+PRD-000602,CUST-00215,Automated Bill Pay,2021-11-23,Active
+PRD-000603,CUST-00216,Merchant Card Processing,2021-08-04,Active
+PRD-000604,CUST-00216,Automated Bill Pay,2021-08-04,Active
+PRD-000605,CUST-00216,Online Banking,2021-08-04,Active
+PRD-000606,CUST-00217,Online Banking,2021-09-27,Active
+PRD-000607,CUST-00218,Automated Bill Pay,2022-02-10,Cancelled
+PRD-000608,CUST-00218,Wealth Advisory,2022-02-10,Cancelled
+PRD-000609,CUST-00219,Merchant Card Processing,2023-11-04,Cancelled
+PRD-000610,CUST-00219,Automated Bill Pay,2023-11-04,Cancelled
+PRD-000611,CUST-00219,Online Banking,2023-11-04,Cancelled
+PRD-000612,CUST-00219,Visa Signature Credit Card,2023-11-04,Cancelled
+PRD-000613,CUST-00219,Mobile Banking App,2023-11-04,Cancelled
+PRD-000614,CUST-00220,Wealth Advisory,2021-03-14,Active
+PRD-000615,CUST-00220,Mobile Banking App,2021-03-14,Active
+PRD-000616,CUST-00220,Automated Bill Pay,2021-03-14,Active
+PRD-000617,CUST-00220,Merchant Card Processing,2021-03-14,Active
+PRD-000618,CUST-00221,Online Banking,2024-09-25,Active
+PRD-000619,CUST-00221,Mobile Banking App,2024-09-25,Active
+PRD-000620,CUST-00221,Wealth Advisory,2024-09-25,Active
+PRD-000621,CUST-00221,Merchant Card Processing,2024-09-25,Active
+PRD-000622,CUST-00222,Wealth Advisory,2020-11-11,Active
+PRD-000623,CUST-00222,Merchant Card Processing,2020-11-11,Active
+PRD-000624,CUST-00222,Automated Bill Pay,2020-11-11,Active
+PRD-000625,CUST-00223,Visa Signature Credit Card,2020-12-05,Active
+PRD-000626,CUST-00224,Automated Bill Pay,2022-06-28,Active
+PRD-000627,CUST-00224,Visa Signature Credit Card,2022-06-28,Active
+PRD-000628,CUST-00225,Merchant Card Processing,2024-05-25,Active
+PRD-000629,CUST-00225,Visa Signature Credit Card,2024-05-25,Active
+PRD-000630,CUST-00225,Automated Bill Pay,2024-05-25,Active
+PRD-000631,CUST-00226,Online Banking,2024-04-24,Active
+PRD-000632,CUST-00226,Wealth Advisory,2024-04-24,Active
+PRD-000633,CUST-00226,Merchant Card Processing,2024-04-24,Active
+PRD-000634,CUST-00227,Mobile Banking App,2020-10-10,Active
+PRD-000635,CUST-00227,Visa Signature Credit Card,2020-10-10,Active
+PRD-000636,CUST-00228,Mobile Banking App,2020-07-29,Cancelled
+PRD-000637,CUST-00228,Automated Bill Pay,2020-07-29,Cancelled
+PRD-000638,CUST-00228,Wealth Advisory,2020-07-29,Cancelled
+PRD-000639,CUST-00228,Online Banking,2020-07-29,Cancelled
+PRD-000640,CUST-00229,Mobile Banking App,2022-11-17,Active
+PRD-000641,CUST-00229,Automated Bill Pay,2022-11-17,Active
+PRD-000642,CUST-00229,Wealth Advisory,2022-11-17,Active
+PRD-000643,CUST-00229,Online Banking,2022-11-17,Active
+PRD-000644,CUST-00230,Merchant Card Processing,2021-12-16,Active
+PRD-000645,CUST-00230,Wealth Advisory,2021-12-16,Active
+PRD-000646,CUST-00230,Mobile Banking App,2021-12-16,Active
+PRD-000647,CUST-00231,Visa Signature Credit Card,2020-06-16,Active
+PRD-000648,CUST-00231,Automated Bill Pay,2020-06-16,Active
+PRD-000649,CUST-00231,Mobile Banking App,2020-06-16,Active
+PRD-000650,CUST-00231,Wealth Advisory,2020-06-16,Active
+PRD-000651,CUST-00232,Online Banking,2021-11-17,Active
+PRD-000652,CUST-00232,Mobile Banking App,2021-11-17,Active
+PRD-000653,CUST-00233,Merchant Card Processing,2020-10-11,Cancelled
+PRD-000654,CUST-00234,Automated Bill Pay,2021-03-17,Cancelled
+PRD-000655,CUST-00234,Mobile Banking App,2021-03-17,Cancelled
+PRD-000656,CUST-00234,Visa Signature Credit Card,2021-03-17,Cancelled
+PRD-000657,CUST-00234,Online Banking,2021-03-17,Cancelled
+PRD-000658,CUST-00235,Online Banking,2021-05-03,Active
+PRD-000659,CUST-00236,Wealth Advisory,2023-01-02,Cancelled
+PRD-000660,CUST-00237,Merchant Card Processing,2023-03-14,Active
+PRD-000661,CUST-00238,Automated Bill Pay,2023-01-19,Active
+PRD-000662,CUST-00238,Merchant Card Processing,2023-01-19,Active
+PRD-000663,CUST-00239,Automated Bill Pay,2022-02-03,Active
+PRD-000664,CUST-00240,Online Banking,2023-09-07,Active
+PRD-000665,CUST-00240,Mobile Banking App,2023-09-07,Active
+PRD-000666,CUST-00240,Wealth Advisory,2023-09-07,Active
+PRD-000667,CUST-00240,Visa Signature Credit Card,2023-09-07,Active
+PRD-000668,CUST-00241,Mobile Banking App,2023-08-09,Active
+PRD-000669,CUST-00241,Merchant Card Processing,2023-08-09,Active
+PRD-000670,CUST-00241,Automated Bill Pay,2023-08-09,Active
+PRD-000671,CUST-00242,Automated Bill Pay,2024-05-08,Active
+PRD-000672,CUST-00242,Mobile Banking App,2024-05-08,Active
+PRD-000673,CUST-00242,Wealth Advisory,2024-05-08,Active
+PRD-000674,CUST-00243,Merchant Card Processing,2021-10-08,Active
+PRD-000675,CUST-00243,Online Banking,2021-10-08,Active
+PRD-000676,CUST-00243,Visa Signature Credit Card,2021-10-08,Active
+PRD-000677,CUST-00244,Mobile Banking App,2022-01-01,Active
+PRD-000678,CUST-00245,Merchant Card Processing,2024-03-02,Active
+PRD-000679,CUST-00246,Wealth Advisory,2024-06-20,Active
+PRD-000680,CUST-00246,Automated Bill Pay,2024-06-20,Active
+PRD-000681,CUST-00247,Online Banking,2023-05-18,Active
+PRD-000682,CUST-00248,Visa Signature Credit Card,2021-09-19,Active
+PRD-000683,CUST-00248,Merchant Card Processing,2021-09-19,Active
+PRD-000684,CUST-00249,Online Banking,2024-11-16,Active
+PRD-000685,CUST-00249,Wealth Advisory,2024-11-16,Active
+PRD-000686,CUST-00250,Wealth Advisory,2023-10-06,Active
+PRD-000687,CUST-00250,Online Banking,2023-10-06,Active
+PRD-000688,CUST-00250,Merchant Card Processing,2023-10-06,Active
+PRD-000689,CUST-00251,Online Banking,2020-03-04,Active
+PRD-000690,CUST-00251,Wealth Advisory,2020-03-04,Active
+PRD-000691,CUST-00251,Merchant Card Processing,2020-03-04,Active
+PRD-000692,CUST-00251,Automated Bill Pay,2020-03-04,Active
+PRD-000693,CUST-00251,Mobile Banking App,2020-03-04,Active
+PRD-000694,CUST-00252,Visa Signature Credit Card,2022-01-11,Active
+PRD-000695,CUST-00252,Wealth Advisory,2022-01-11,Active
+PRD-000696,CUST-00252,Mobile Banking App,2022-01-11,Active
+PRD-000697,CUST-00252,Online Banking,2022-01-11,Active
+PRD-000698,CUST-00253,Mobile Banking App,2024-04-11,Cancelled
+PRD-000699,CUST-00253,Automated Bill Pay,2024-04-11,Cancelled
+PRD-000700,CUST-00254,Online Banking,2020-08-20,Active
+PRD-000701,CUST-00255,Wealth Advisory,2024-05-06,Cancelled
+PRD-000702,CUST-00255,Automated Bill Pay,2024-05-06,Cancelled
+PRD-000703,CUST-00255,Online Banking,2024-05-06,Cancelled
+PRD-000704,CUST-00255,Merchant Card Processing,2024-05-06,Cancelled
+PRD-000705,CUST-00256,Mobile Banking App,2022-10-02,Active
+PRD-000706,CUST-00256,Automated Bill Pay,2022-10-02,Active
+PRD-000707,CUST-00257,Automated Bill Pay,2023-12-31,Active
+PRD-000708,CUST-00258,Mobile Banking App,2021-08-17,Active
+PRD-000709,CUST-00258,Visa Signature Credit Card,2021-08-17,Active
+PRD-000710,CUST-00258,Online Banking,2021-08-17,Active
+PRD-000711,CUST-00259,Online Banking,2021-02-15,Active
+PRD-000712,CUST-00259,Visa Signature Credit Card,2021-02-15,Active
+PRD-000713,CUST-00260,Mobile Banking App,2022-01-25,Active
+PRD-000714,CUST-00260,Online Banking,2022-01-25,Active
+PRD-000715,CUST-00261,Visa Signature Credit Card,2024-01-08,Active
+PRD-000716,CUST-00261,Wealth Advisory,2024-01-08,Active
+PRD-000717,CUST-00261,Mobile Banking App,2024-01-08,Active
+PRD-000718,CUST-00261,Online Banking,2024-01-08,Active
+PRD-000719,CUST-00262,Merchant Card Processing,2021-10-11,Cancelled
+PRD-000720,CUST-00262,Automated Bill Pay,2021-10-11,Cancelled
+PRD-000721,CUST-00262,Visa Signature Credit Card,2021-10-11,Cancelled
+PRD-000722,CUST-00263,Merchant Card Processing,2024-12-03,Active
+PRD-000723,CUST-00263,Wealth Advisory,2024-12-03,Active
+PRD-000724,CUST-00263,Automated Bill Pay,2024-12-03,Active
+PRD-000725,CUST-00263,Visa Signature Credit Card,2024-12-03,Active
+PRD-000726,CUST-00264,Mobile Banking App,2020-09-11,Cancelled
+PRD-000727,CUST-00264,Visa Signature Credit Card,2020-09-11,Cancelled
+PRD-000728,CUST-00264,Merchant Card Processing,2020-09-11,Cancelled
+PRD-000729,CUST-00264,Online Banking,2020-09-11,Cancelled
+PRD-000730,CUST-00265,Wealth Advisory,2021-12-09,Active
+PRD-000731,CUST-00265,Online Banking,2021-12-09,Active
+PRD-000732,CUST-00265,Visa Signature Credit Card,2021-12-09,Active
+PRD-000733,CUST-00266,Mobile Banking App,2020-09-13,Active
+PRD-000734,CUST-00266,Wealth Advisory,2020-09-13,Active
+PRD-000735,CUST-00267,Wealth Advisory,2020-11-11,Active
+PRD-000736,CUST-00267,Automated Bill Pay,2020-11-11,Active
+PRD-000737,CUST-00267,Visa Signature Credit Card,2020-11-11,Active
+PRD-000738,CUST-00267,Mobile Banking App,2020-11-11,Active
+PRD-000739,CUST-00267,Online Banking,2020-11-11,Active
+PRD-000740,CUST-00268,Wealth Advisory,2023-08-06,Active
+PRD-000741,CUST-00268,Mobile Banking App,2023-08-06,Active
+PRD-000742,CUST-00268,Visa Signature Credit Card,2023-08-06,Active
+PRD-000743,CUST-00268,Automated Bill Pay,2023-08-06,Active
+PRD-000744,CUST-00269,Mobile Banking App,2023-08-01,Active
+PRD-000745,CUST-00269,Online Banking,2023-08-01,Active
+PRD-000746,CUST-00269,Visa Signature Credit Card,2023-08-01,Active
+PRD-000747,CUST-00269,Wealth Advisory,2023-08-01,Active
+PRD-000748,CUST-00269,Merchant Card Processing,2023-08-01,Active
+PRD-000749,CUST-00270,Wealth Advisory,2024-07-11,Active
+PRD-000750,CUST-00270,Online Banking,2024-07-11,Active
+PRD-000751,CUST-00270,Automated Bill Pay,2024-07-11,Active
+PRD-000752,CUST-00270,Merchant Card Processing,2024-07-11,Active
+PRD-000753,CUST-00271,Wealth Advisory,2022-05-01,Active
+PRD-000754,CUST-00271,Mobile Banking App,2022-05-01,Active
+PRD-000755,CUST-00271,Visa Signature Credit Card,2022-05-01,Active
+PRD-000756,CUST-00272,Online Banking,2021-10-15,Active
+PRD-000757,CUST-00272,Mobile Banking App,2021-10-15,Active
+PRD-000758,CUST-00273,Visa Signature Credit Card,2021-10-15,Active
+PRD-000759,CUST-00273,Mobile Banking App,2021-10-15,Active
+PRD-000760,CUST-00273,Merchant Card Processing,2021-10-15,Active
+PRD-000761,CUST-00274,Online Banking,2021-08-17,Active
+PRD-000762,CUST-00275,Merchant Card Processing,2023-03-29,Cancelled
+PRD-000763,CUST-00275,Visa Signature Credit Card,2023-03-29,Cancelled
+PRD-000764,CUST-00276,Wealth Advisory,2022-08-14,Active
+PRD-000765,CUST-00276,Automated Bill Pay,2022-08-14,Active
+PRD-000766,CUST-00277,Mobile Banking App,2021-05-08,Cancelled
+PRD-000767,CUST-00277,Automated Bill Pay,2021-05-08,Cancelled
+PRD-000768,CUST-00277,Online Banking,2021-05-08,Cancelled
+PRD-000769,CUST-00278,Visa Signature Credit Card,2023-09-01,Active
+PRD-000770,CUST-00278,Automated Bill Pay,2023-09-01,Active
+PRD-000771,CUST-00278,Mobile Banking App,2023-09-01,Active
+PRD-000772,CUST-00278,Merchant Card Processing,2023-09-01,Active
+PRD-000773,CUST-00279,Automated Bill Pay,2021-06-25,Cancelled
+PRD-000774,CUST-00279,Visa Signature Credit Card,2021-06-25,Cancelled
+PRD-000775,CUST-00280,Automated Bill Pay,2021-02-02,Active
+PRD-000776,CUST-00281,Merchant Card Processing,2024-08-17,Active
+PRD-000777,CUST-00281,Wealth Advisory,2024-08-17,Active
+PRD-000778,CUST-00281,Visa Signature Credit Card,2024-08-17,Active
+PRD-000779,CUST-00281,Mobile Banking App,2024-08-17,Active
+PRD-000780,CUST-00282,Online Banking,2021-11-25,Active
+PRD-000781,CUST-00282,Wealth Advisory,2021-11-25,Active
+PRD-000782,CUST-00282,Automated Bill Pay,2021-11-25,Active
+PRD-000783,CUST-00283,Visa Signature Credit Card,2022-10-21,Active
+PRD-000784,CUST-00284,Online Banking,2022-11-29,Active
+PRD-000785,CUST-00284,Merchant Card Processing,2022-11-29,Active
+PRD-000786,CUST-00284,Wealth Advisory,2022-11-29,Active
+PRD-000787,CUST-00284,Automated Bill Pay,2022-11-29,Active
+PRD-000788,CUST-00285,Automated Bill Pay,2023-06-16,Active
+PRD-000789,CUST-00285,Wealth Advisory,2023-06-16,Active
+PRD-000790,CUST-00285,Mobile Banking App,2023-06-16,Active
+PRD-000791,CUST-00286,Online Banking,2023-02-26,Active
+PRD-000792,CUST-00286,Automated Bill Pay,2023-02-26,Active
+PRD-000793,CUST-00286,Merchant Card Processing,2023-02-26,Active
+PRD-000794,CUST-00286,Mobile Banking App,2023-02-26,Active
+PRD-000795,CUST-00287,Mobile Banking App,2023-04-10,Active
+PRD-000796,CUST-00287,Wealth Advisory,2023-04-10,Active
+PRD-000797,CUST-00287,Online Banking,2023-04-10,Active
+PRD-000798,CUST-00288,Visa Signature Credit Card,2023-03-30,Active
+PRD-000799,CUST-00289,Wealth Advisory,2023-06-23,Active
+PRD-000800,CUST-00289,Online Banking,2023-06-23,Active
+PRD-000801,CUST-00290,Merchant Card Processing,2020-02-08,Cancelled
+PRD-000802,CUST-00290,Visa Signature Credit Card,2020-02-08,Cancelled
+PRD-000803,CUST-00290,Automated Bill Pay,2020-02-08,Cancelled
+PRD-000804,CUST-00290,Mobile Banking App,2020-02-08,Cancelled
+PRD-000805,CUST-00291,Wealth Advisory,2024-05-06,Active
+PRD-000806,CUST-00291,Online Banking,2024-05-06,Active
+PRD-000807,CUST-00291,Visa Signature Credit Card,2024-05-06,Active
+PRD-000808,CUST-00292,Automated Bill Pay,2023-09-18,Active
+PRD-000809,CUST-00292,Online Banking,2023-09-18,Active
+PRD-000810,CUST-00292,Wealth Advisory,2023-09-18,Active
+PRD-000811,CUST-00292,Mobile Banking App,2023-09-18,Active
+PRD-000812,CUST-00293,Wealth Advisory,2021-12-02,Active
+PRD-000813,CUST-00293,Online Banking,2021-12-02,Active
+PRD-000814,CUST-00293,Visa Signature Credit Card,2021-12-02,Active
+PRD-000815,CUST-00293,Merchant Card Processing,2021-12-02,Active
+PRD-000816,CUST-00294,Mobile Banking App,2023-02-16,Active
+PRD-000817,CUST-00294,Online Banking,2023-02-16,Active
+PRD-000818,CUST-00295,Mobile Banking App,2022-09-28,Active
+PRD-000819,CUST-00296,Visa Signature Credit Card,2021-07-14,Cancelled
+PRD-000820,CUST-00297,Mobile Banking App,2024-05-02,Active
+PRD-000821,CUST-00297,Merchant Card Processing,2024-05-02,Active
+PRD-000822,CUST-00297,Online Banking,2024-05-02,Active
+PRD-000823,CUST-00297,Wealth Advisory,2024-05-02,Active
+PRD-000824,CUST-00298,Automated Bill Pay,2022-06-24,Cancelled
+PRD-000825,CUST-00298,Online Banking,2022-06-24,Cancelled
+PRD-000826,CUST-00298,Merchant Card Processing,2022-06-24,Cancelled
+PRD-000827,CUST-00299,Online Banking,2023-02-25,Cancelled
+PRD-000828,CUST-00299,Merchant Card Processing,2023-02-25,Cancelled
+PRD-000829,CUST-00299,Automated Bill Pay,2023-02-25,Cancelled
+PRD-000830,CUST-00300,Online Banking,2020-04-13,Active
+PRD-000831,CUST-00300,Visa Signature Credit Card,2020-04-13,Active
+PRD-000832,CUST-00300,Automated Bill Pay,2020-04-13,Active
+PRD-000833,CUST-00301,Visa Signature Credit Card,2020-07-24,Active
+PRD-000834,CUST-00301,Mobile Banking App,2020-07-24,Active
+PRD-000835,CUST-00301,Automated Bill Pay,2020-07-24,Active
+PRD-000836,CUST-00301,Merchant Card Processing,2020-07-24,Active
+PRD-000837,CUST-00302,Mobile Banking App,2023-08-30,Cancelled
+PRD-000838,CUST-00302,Visa Signature Credit Card,2023-08-30,Cancelled
+PRD-000839,CUST-00303,Merchant Card Processing,2021-08-07,Active
+PRD-000840,CUST-00303,Wealth Advisory,2021-08-07,Active
+PRD-000841,CUST-00303,Online Banking,2021-08-07,Active
+PRD-000842,CUST-00303,Visa Signature Credit Card,2021-08-07,Active
+PRD-000843,CUST-00303,Automated Bill Pay,2021-08-07,Active
+PRD-000844,CUST-00304,Visa Signature Credit Card,2024-10-07,Active
+PRD-000845,CUST-00304,Merchant Card Processing,2024-10-07,Active
+PRD-000846,CUST-00304,Wealth Advisory,2024-10-07,Active
+PRD-000847,CUST-00304,Online Banking,2024-10-07,Active
+PRD-000848,CUST-00304,Automated Bill Pay,2024-10-07,Active
+PRD-000849,CUST-00305,Visa Signature Credit Card,2024-09-08,Active
+PRD-000850,CUST-00305,Online Banking,2024-09-08,Active
+PRD-000851,CUST-00305,Merchant Card Processing,2024-09-08,Active
+PRD-000852,CUST-00306,Merchant Card Processing,2021-08-15,Active
+PRD-000853,CUST-00306,Mobile Banking App,2021-08-15,Active
+PRD-000854,CUST-00307,Wealth Advisory,2021-08-05,Active
+PRD-000855,CUST-00307,Online Banking,2021-08-05,Active
+PRD-000856,CUST-00308,Online Banking,2020-08-18,Active
+PRD-000857,CUST-00308,Mobile Banking App,2020-08-18,Active
+PRD-000858,CUST-00309,Wealth Advisory,2020-01-29,Active
+PRD-000859,CUST-00309,Mobile Banking App,2020-01-29,Active
+PRD-000860,CUST-00309,Merchant Card Processing,2020-01-29,Active
+PRD-000861,CUST-00309,Online Banking,2020-01-29,Active
+PRD-000862,CUST-00310,Mobile Banking App,2020-12-25,Active
+PRD-000863,CUST-00310,Automated Bill Pay,2020-12-25,Active
+PRD-000864,CUST-00310,Visa Signature Credit Card,2020-12-25,Active
+PRD-000865,CUST-00311,Merchant Card Processing,2023-10-02,Active
+PRD-000866,CUST-00311,Wealth Advisory,2023-10-02,Active
+PRD-000867,CUST-00311,Mobile Banking App,2023-10-02,Active
+PRD-000868,CUST-00312,Mobile Banking App,2020-01-14,Active
+PRD-000869,CUST-00312,Visa Signature Credit Card,2020-01-14,Active
+PRD-000870,CUST-00312,Wealth Advisory,2020-01-14,Active
+PRD-000871,CUST-00313,Automated Bill Pay,2021-09-10,Active
+PRD-000872,CUST-00313,Merchant Card Processing,2021-09-10,Active
+PRD-000873,CUST-00313,Mobile Banking App,2021-09-10,Active
+PRD-000874,CUST-00313,Wealth Advisory,2021-09-10,Active
+PRD-000875,CUST-00314,Visa Signature Credit Card,2020-08-30,Active
+PRD-000876,CUST-00314,Wealth Advisory,2020-08-30,Active
+PRD-000877,CUST-00315,Merchant Card Processing,2023-12-11,Active
+PRD-000878,CUST-00315,Visa Signature Credit Card,2023-12-11,Active
+PRD-000879,CUST-00316,Mobile Banking App,2022-09-06,Active
+PRD-000880,CUST-00317,Online Banking,2023-01-05,Active
+PRD-000881,CUST-00317,Merchant Card Processing,2023-01-05,Active
+PRD-000882,CUST-00317,Mobile Banking App,2023-01-05,Active
+PRD-000883,CUST-00317,Automated Bill Pay,2023-01-05,Active
+PRD-000884,CUST-00318,Visa Signature Credit Card,2022-12-12,Active
+PRD-000885,CUST-00318,Online Banking,2022-12-12,Active
+PRD-000886,CUST-00318,Wealth Advisory,2022-12-12,Active
+PRD-000887,CUST-00319,Visa Signature Credit Card,2022-11-01,Active
+PRD-000888,CUST-00319,Online Banking,2022-11-01,Active
+PRD-000889,CUST-00319,Automated Bill Pay,2022-11-01,Active
+PRD-000890,CUST-00319,Mobile Banking App,2022-11-01,Active
+PRD-000891,CUST-00320,Mobile Banking App,2023-10-25,Cancelled
+PRD-000892,CUST-00320,Merchant Card Processing,2023-10-25,Cancelled
+PRD-000893,CUST-00320,Wealth Advisory,2023-10-25,Cancelled
+PRD-000894,CUST-00320,Visa Signature Credit Card,2023-10-25,Cancelled
+PRD-000895,CUST-00321,Automated Bill Pay,2020-09-27,Active
+PRD-000896,CUST-00321,Visa Signature Credit Card,2020-09-27,Active
+PRD-000897,CUST-00321,Online Banking,2020-09-27,Active
+PRD-000898,CUST-00321,Mobile Banking App,2020-09-27,Active
+PRD-000899,CUST-00322,Visa Signature Credit Card,2024-07-10,Active
+PRD-000900,CUST-00322,Online Banking,2024-07-10,Active
+PRD-000901,CUST-00322,Automated Bill Pay,2024-07-10,Active
+PRD-000902,CUST-00323,Merchant Card Processing,2020-05-29,Active
+PRD-000903,CUST-00323,Wealth Advisory,2020-05-29,Active
+PRD-000904,CUST-00323,Mobile Banking App,2020-05-29,Active
+PRD-000905,CUST-00323,Automated Bill Pay,2020-05-29,Active
+PRD-000906,CUST-00324,Wealth Advisory,2020-05-21,Active
+PRD-000907,CUST-00324,Mobile Banking App,2020-05-21,Active
+PRD-000908,CUST-00325,Automated Bill Pay,2023-08-06,Active
+PRD-000909,CUST-00325,Merchant Card Processing,2023-08-06,Active
+PRD-000910,CUST-00325,Wealth Advisory,2023-08-06,Active
+PRD-000911,CUST-00326,Merchant Card Processing,2022-02-12,Active
+PRD-000912,CUST-00326,Online Banking,2022-02-12,Active
+PRD-000913,CUST-00327,Mobile Banking App,2023-08-31,Active
+PRD-000914,CUST-00327,Online Banking,2023-08-31,Active
+PRD-000915,CUST-00328,Automated Bill Pay,2021-04-01,Active
+PRD-000916,CUST-00328,Visa Signature Credit Card,2021-04-01,Active
+PRD-000917,CUST-00329,Automated Bill Pay,2022-05-18,Active
+PRD-000918,CUST-00329,Online Banking,2022-05-18,Active
+PRD-000919,CUST-00330,Mobile Banking App,2021-07-18,Active
+PRD-000920,CUST-00330,Automated Bill Pay,2021-07-18,Active
+PRD-000921,CUST-00330,Wealth Advisory,2021-07-18,Active
+PRD-000922,CUST-00331,Wealth Advisory,2020-02-02,Active
+PRD-000923,CUST-00331,Online Banking,2020-02-02,Active
+PRD-000924,CUST-00331,Mobile Banking App,2020-02-02,Active
+PRD-000925,CUST-00331,Visa Signature Credit Card,2020-02-02,Active
+PRD-000926,CUST-00332,Wealth Advisory,2023-12-11,Active
+PRD-000927,CUST-00332,Mobile Banking App,2023-12-11,Active
+PRD-000928,CUST-00332,Automated Bill Pay,2023-12-11,Active
+PRD-000929,CUST-00333,Visa Signature Credit Card,2024-11-03,Active
+PRD-000930,CUST-00333,Merchant Card Processing,2024-11-03,Active
+PRD-000931,CUST-00334,Merchant Card Processing,2023-03-28,Cancelled
+PRD-000932,CUST-00334,Online Banking,2023-03-28,Cancelled
+PRD-000933,CUST-00334,Automated Bill Pay,2023-03-28,Cancelled
+PRD-000934,CUST-00335,Automated Bill Pay,2021-03-28,Active
+PRD-000935,CUST-00335,Merchant Card Processing,2021-03-28,Active
+PRD-000936,CUST-00336,Merchant Card Processing,2020-12-24,Cancelled
+PRD-000937,CUST-00336,Visa Signature Credit Card,2020-12-24,Cancelled
+PRD-000938,CUST-00336,Mobile Banking App,2020-12-24,Cancelled
+PRD-000939,CUST-00336,Online Banking,2020-12-24,Cancelled
+PRD-000940,CUST-00337,Merchant Card Processing,2022-02-19,Active
+PRD-000941,CUST-00337,Online Banking,2022-02-19,Active
+PRD-000942,CUST-00337,Mobile Banking App,2022-02-19,Active
+PRD-000943,CUST-00338,Visa Signature Credit Card,2023-01-06,Active
+PRD-000944,CUST-00338,Wealth Advisory,2023-01-06,Active
+PRD-000945,CUST-00339,Online Banking,2020-04-28,Active
+PRD-000946,CUST-00339,Wealth Advisory,2020-04-28,Active
+PRD-000947,CUST-00340,Online Banking,2021-02-20,Active
+PRD-000948,CUST-00340,Mobile Banking App,2021-02-20,Active
+PRD-000949,CUST-00340,Visa Signature Credit Card,2021-02-20,Active
+PRD-000950,CUST-00340,Merchant Card Processing,2021-02-20,Active
+PRD-000951,CUST-00341,Merchant Card Processing,2021-01-25,Active
+PRD-000952,CUST-00341,Online Banking,2021-01-25,Active
+PRD-000953,CUST-00342,Wealth Advisory,2020-05-29,Active
+PRD-000954,CUST-00342,Automated Bill Pay,2020-05-29,Active
+PRD-000955,CUST-00342,Online Banking,2020-05-29,Active
+PRD-000956,CUST-00343,Mobile Banking App,2020-02-01,Cancelled
+PRD-000957,CUST-00343,Wealth Advisory,2020-02-01,Cancelled
+PRD-000958,CUST-00343,Online Banking,2020-02-01,Cancelled
+PRD-000959,CUST-00343,Automated Bill Pay,2020-02-01,Cancelled
+PRD-000960,CUST-00344,Automated Bill Pay,2023-11-25,Active
+PRD-000961,CUST-00345,Mobile Banking App,2021-08-02,Active
+PRD-000962,CUST-00345,Automated Bill Pay,2021-08-02,Active
+PRD-000963,CUST-00345,Merchant Card Processing,2021-08-02,Active
+PRD-000964,CUST-00346,Online Banking,2022-08-12,Active
+PRD-000965,CUST-00346,Merchant Card Processing,2022-08-12,Active
+PRD-000966,CUST-00347,Wealth Advisory,2023-02-26,Active
+PRD-000967,CUST-00347,Merchant Card Processing,2023-02-26,Active
+PRD-000968,CUST-00347,Visa Signature Credit Card,2023-02-26,Active
+PRD-000969,CUST-00347,Automated Bill Pay,2023-02-26,Active
+PRD-000970,CUST-00348,Merchant Card Processing,2024-01-14,Active
+PRD-000971,CUST-00348,Wealth Advisory,2024-01-14,Active
+PRD-000972,CUST-00348,Visa Signature Credit Card,2024-01-14,Active
+PRD-000973,CUST-00349,Wealth Advisory,2021-05-18,Active
+PRD-000974,CUST-00349,Online Banking,2021-05-18,Active
+PRD-000975,CUST-00349,Visa Signature Credit Card,2021-05-18,Active
+PRD-000976,CUST-00350,Merchant Card Processing,2024-02-23,Active
+PRD-000977,CUST-00350,Visa Signature Credit Card,2024-02-23,Active
+PRD-000978,CUST-00350,Wealth Advisory,2024-02-23,Active
+PRD-000979,CUST-00351,Visa Signature Credit Card,2024-01-15,Active
+PRD-000980,CUST-00352,Wealth Advisory,2020-04-30,Active
+PRD-000981,CUST-00352,Mobile Banking App,2020-04-30,Active
+PRD-000982,CUST-00352,Automated Bill Pay,2020-04-30,Active
+PRD-000983,CUST-00353,Wealth Advisory,2020-04-09,Active
+PRD-000984,CUST-00353,Online Banking,2020-04-09,Active
+PRD-000985,CUST-00353,Mobile Banking App,2020-04-09,Active
+PRD-000986,CUST-00354,Visa Signature Credit Card,2020-11-05,Active
+PRD-000987,CUST-00354,Mobile Banking App,2020-11-05,Active
+PRD-000988,CUST-00354,Online Banking,2020-11-05,Active
+PRD-000989,CUST-00354,Wealth Advisory,2020-11-05,Active
+PRD-000990,CUST-00355,Merchant Card Processing,2023-06-16,Active
+PRD-000991,CUST-00355,Online Banking,2023-06-16,Active
+PRD-000992,CUST-00355,Visa Signature Credit Card,2023-06-16,Active
+PRD-000993,CUST-00355,Wealth Advisory,2023-06-16,Active
+PRD-000994,CUST-00356,Automated Bill Pay,2022-12-20,Active
+PRD-000995,CUST-00356,Mobile Banking App,2022-12-20,Active
+PRD-000996,CUST-00356,Visa Signature Credit Card,2022-12-20,Active
+PRD-000997,CUST-00356,Wealth Advisory,2022-12-20,Active
+PRD-000998,CUST-00357,Visa Signature Credit Card,2024-07-09,Active
+PRD-000999,CUST-00357,Wealth Advisory,2024-07-09,Active
+PRD-001000,CUST-00357,Automated Bill Pay,2024-07-09,Active
+PRD-001001,CUST-00358,Mobile Banking App,2021-05-31,Active
+PRD-001002,CUST-00358,Online Banking,2021-05-31,Active
+PRD-001003,CUST-00358,Visa Signature Credit Card,2021-05-31,Active
+PRD-001004,CUST-00358,Wealth Advisory,2021-05-31,Active
+PRD-001005,CUST-00359,Wealth Advisory,2021-05-13,Cancelled
+PRD-001006,CUST-00360,Visa Signature Credit Card,2024-10-23,Cancelled
+PRD-001007,CUST-00360,Online Banking,2024-10-23,Cancelled
+PRD-001008,CUST-00360,Automated Bill Pay,2024-10-23,Cancelled
+PRD-001009,CUST-00360,Mobile Banking App,2024-10-23,Cancelled
+PRD-001010,CUST-00361,Wealth Advisory,2023-07-28,Active
+PRD-001011,CUST-00361,Mobile Banking App,2023-07-28,Active
+PRD-001012,CUST-00362,Automated Bill Pay,2023-03-04,Active
+PRD-001013,CUST-00362,Merchant Card Processing,2023-03-04,Active
+PRD-001014,CUST-00362,Mobile Banking App,2023-03-04,Active
+PRD-001015,CUST-00363,Wealth Advisory,2022-08-31,Cancelled
+PRD-001016,CUST-00363,Visa Signature Credit Card,2022-08-31,Cancelled
+PRD-001017,CUST-00363,Online Banking,2022-08-31,Cancelled
+PRD-001018,CUST-00364,Wealth Advisory,2023-09-09,Active
+PRD-001019,CUST-00364,Online Banking,2023-09-09,Active
+PRD-001020,CUST-00365,Visa Signature Credit Card,2024-08-07,Active
+PRD-001021,CUST-00365,Automated Bill Pay,2024-08-07,Active
+PRD-001022,CUST-00366,Online Banking,2024-10-05,Active
+PRD-001023,CUST-00367,Visa Signature Credit Card,2024-01-23,Active
+PRD-001024,CUST-00367,Online Banking,2024-01-23,Active
+PRD-001025,CUST-00367,Wealth Advisory,2024-01-23,Active
+PRD-001026,CUST-00367,Mobile Banking App,2024-01-23,Active
+PRD-001027,CUST-00368,Online Banking,2021-11-28,Active
+PRD-001028,CUST-00369,Mobile Banking App,2022-10-01,Active
+PRD-001029,CUST-00369,Visa Signature Credit Card,2022-10-01,Active
+PRD-001030,CUST-00369,Automated Bill Pay,2022-10-01,Active
+PRD-001031,CUST-00370,Online Banking,2020-06-24,Active
+PRD-001032,CUST-00370,Visa Signature Credit Card,2020-06-24,Active
+PRD-001033,CUST-00371,Merchant Card Processing,2023-12-28,Active
+PRD-001034,CUST-00371,Mobile Banking App,2023-12-28,Active
+PRD-001035,CUST-00372,Automated Bill Pay,2020-01-11,Active
+PRD-001036,CUST-00372,Online Banking,2020-01-11,Active
+PRD-001037,CUST-00372,Visa Signature Credit Card,2020-01-11,Active
+PRD-001038,CUST-00372,Merchant Card Processing,2020-01-11,Active
+PRD-001039,CUST-00373,Wealth Advisory,2021-01-18,Active
+PRD-001040,CUST-00374,Mobile Banking App,2023-05-07,Active
+PRD-001041,CUST-00374,Wealth Advisory,2023-05-07,Active
+PRD-001042,CUST-00374,Automated Bill Pay,2023-05-07,Active
+PRD-001043,CUST-00375,Online Banking,2024-01-24,Active
+PRD-001044,CUST-00375,Visa Signature Credit Card,2024-01-24,Active
+PRD-001045,CUST-00375,Automated Bill Pay,2024-01-24,Active
+PRD-001046,CUST-00375,Wealth Advisory,2024-01-24,Active
+PRD-001047,CUST-00376,Automated Bill Pay,2021-07-03,Active
+PRD-001048,CUST-00376,Wealth Advisory,2021-07-03,Active
+PRD-001049,CUST-00376,Visa Signature Credit Card,2021-07-03,Active
+PRD-001050,CUST-00377,Merchant Card Processing,2024-05-21,Active
+PRD-001051,CUST-00377,Mobile Banking App,2024-05-21,Active
+PRD-001052,CUST-00378,Wealth Advisory,2023-06-16,Active
+PRD-001053,CUST-00378,Automated Bill Pay,2023-06-16,Active
+PRD-001054,CUST-00378,Mobile Banking App,2023-06-16,Active
+PRD-001055,CUST-00379,Visa Signature Credit Card,2021-11-11,Active
+PRD-001056,CUST-00379,Online Banking,2021-11-11,Active
+PRD-001057,CUST-00379,Merchant Card Processing,2021-11-11,Active
+PRD-001058,CUST-00380,Automated Bill Pay,2023-08-26,Active
+PRD-001059,CUST-00380,Mobile Banking App,2023-08-26,Active
+PRD-001060,CUST-00380,Wealth Advisory,2023-08-26,Active
+PRD-001061,CUST-00380,Merchant Card Processing,2023-08-26,Active
+PRD-001062,CUST-00381,Mobile Banking App,2021-10-05,Cancelled
+PRD-001063,CUST-00382,Merchant Card Processing,2023-03-25,Active
+PRD-001064,CUST-00382,Visa Signature Credit Card,2023-03-25,Active
+PRD-001065,CUST-00382,Automated Bill Pay,2023-03-25,Active
+PRD-001066,CUST-00382,Mobile Banking App,2023-03-25,Active
+PRD-001067,CUST-00383,Wealth Advisory,2023-02-28,Active
+PRD-001068,CUST-00383,Merchant Card Processing,2023-02-28,Active
+PRD-001069,CUST-00383,Automated Bill Pay,2023-02-28,Active
+PRD-001070,CUST-00384,Online Banking,2022-06-16,Active
+PRD-001071,CUST-00384,Automated Bill Pay,2022-06-16,Active
+PRD-001072,CUST-00384,Merchant Card Processing,2022-06-16,Active
+PRD-001073,CUST-00384,Mobile Banking App,2022-06-16,Active
+PRD-001074,CUST-00384,Wealth Advisory,2022-06-16,Active
+PRD-001075,CUST-00385,Automated Bill Pay,2022-10-19,Active
+PRD-001076,CUST-00385,Visa Signature Credit Card,2022-10-19,Active
+PRD-001077,CUST-00386,Automated Bill Pay,2024-06-04,Active
+PRD-001078,CUST-00386,Merchant Card Processing,2024-06-04,Active
+PRD-001079,CUST-00387,Automated Bill Pay,2022-11-03,Active
+PRD-001080,CUST-00387,Merchant Card Processing,2022-11-03,Active
+PRD-001081,CUST-00387,Visa Signature Credit Card,2022-11-03,Active
+PRD-001082,CUST-00388,Mobile Banking App,2024-07-21,Active
+PRD-001083,CUST-00388,Wealth Advisory,2024-07-21,Active
+PRD-001084,CUST-00388,Online Banking,2024-07-21,Active
+PRD-001085,CUST-00388,Merchant Card Processing,2024-07-21,Active
+PRD-001086,CUST-00388,Visa Signature Credit Card,2024-07-21,Active
+PRD-001087,CUST-00389,Online Banking,2023-08-18,Active
+PRD-001088,CUST-00390,Merchant Card Processing,2024-03-21,Active
+PRD-001089,CUST-00390,Online Banking,2024-03-21,Active
+PRD-001090,CUST-00390,Visa Signature Credit Card,2024-03-21,Active
+PRD-001091,CUST-00390,Wealth Advisory,2024-03-21,Active
+PRD-001092,CUST-00391,Visa Signature Credit Card,2022-11-28,Active
+PRD-001093,CUST-00392,Merchant Card Processing,2023-11-15,Active
+PRD-001094,CUST-00392,Visa Signature Credit Card,2023-11-15,Active
+PRD-001095,CUST-00392,Online Banking,2023-11-15,Active
+PRD-001096,CUST-00392,Wealth Advisory,2023-11-15,Active
+PRD-001097,CUST-00393,Automated Bill Pay,2020-06-24,Active
+PRD-001098,CUST-00393,Mobile Banking App,2020-06-24,Active
+PRD-001099,CUST-00393,Wealth Advisory,2020-06-24,Active
+PRD-001100,CUST-00394,Mobile Banking App,2022-12-03,Active
+PRD-001101,CUST-00394,Merchant Card Processing,2022-12-03,Active
+PRD-001102,CUST-00395,Merchant Card Processing,2020-05-17,Active
+PRD-001103,CUST-00395,Visa Signature Credit Card,2020-05-17,Active
+PRD-001104,CUST-00395,Online Banking,2020-05-17,Active
+PRD-001105,CUST-00396,Automated Bill Pay,2024-06-26,Active
+PRD-001106,CUST-00396,Mobile Banking App,2024-06-26,Active
+PRD-001107,CUST-00396,Online Banking,2024-06-26,Active
+PRD-001108,CUST-00396,Wealth Advisory,2024-06-26,Active
+PRD-001109,CUST-00397,Automated Bill Pay,2022-08-04,Active
+PRD-001110,CUST-00397,Online Banking,2022-08-04,Active
+PRD-001111,CUST-00397,Merchant Card Processing,2022-08-04,Active
+PRD-001112,CUST-00398,Mobile Banking App,2024-02-19,Active
+PRD-001113,CUST-00398,Online Banking,2024-02-19,Active
+PRD-001114,CUST-00399,Automated Bill Pay,2021-02-25,Active
+PRD-001115,CUST-00399,Wealth Advisory,2021-02-25,Active
+PRD-001116,CUST-00400,Online Banking,2021-02-07,Active
+PRD-001117,CUST-00400,Merchant Card Processing,2021-02-07,Active
+PRD-001118,CUST-00400,Visa Signature Credit Card,2021-02-07,Active
+PRD-001119,CUST-00400,Mobile Banking App,2021-02-07,Active
+PRD-001120,CUST-00401,Mobile Banking App,2023-08-01,Cancelled
+PRD-001121,CUST-00401,Merchant Card Processing,2023-08-01,Cancelled
+PRD-001122,CUST-00401,Visa Signature Credit Card,2023-08-01,Cancelled
+PRD-001123,CUST-00401,Wealth Advisory,2023-08-01,Cancelled
+PRD-001124,CUST-00402,Wealth Advisory,2023-06-18,Active
+PRD-001125,CUST-00402,Mobile Banking App,2023-06-18,Active
+PRD-001126,CUST-00403,Mobile Banking App,2020-08-27,Active
+PRD-001127,CUST-00403,Merchant Card Processing,2020-08-27,Active
+PRD-001128,CUST-00403,Automated Bill Pay,2020-08-27,Active
+PRD-001129,CUST-00404,Wealth Advisory,2022-02-24,Active
+PRD-001130,CUST-00404,Visa Signature Credit Card,2022-02-24,Active
+PRD-001131,CUST-00404,Automated Bill Pay,2022-02-24,Active
+PRD-001132,CUST-00404,Merchant Card Processing,2022-02-24,Active
+PRD-001133,CUST-00404,Online Banking,2022-02-24,Active
+PRD-001134,CUST-00405,Merchant Card Processing,2020-12-20,Active
+PRD-001135,CUST-00405,Visa Signature Credit Card,2020-12-20,Active
+PRD-001136,CUST-00405,Wealth Advisory,2020-12-20,Active
+PRD-001137,CUST-00405,Mobile Banking App,2020-12-20,Active
+PRD-001138,CUST-00406,Wealth Advisory,2023-06-22,Active
+PRD-001139,CUST-00407,Wealth Advisory,2023-02-24,Active
+PRD-001140,CUST-00407,Mobile Banking App,2023-02-24,Active
+PRD-001141,CUST-00407,Online Banking,2023-02-24,Active
+PRD-001142,CUST-00407,Automated Bill Pay,2023-02-24,Active
+PRD-001143,CUST-00408,Automated Bill Pay,2022-09-27,Active
+PRD-001144,CUST-00408,Wealth Advisory,2022-09-27,Active
+PRD-001145,CUST-00409,Automated Bill Pay,2021-04-05,Active
+PRD-001146,CUST-00410,Online Banking,2024-04-17,Active
+PRD-001147,CUST-00410,Automated Bill Pay,2024-04-17,Active
+PRD-001148,CUST-00410,Wealth Advisory,2024-04-17,Active
+PRD-001149,CUST-00411,Visa Signature Credit Card,2023-01-15,Active
+PRD-001150,CUST-00412,Merchant Card Processing,2024-03-18,Active
+PRD-001151,CUST-00412,Wealth Advisory,2024-03-18,Active
+PRD-001152,CUST-00412,Visa Signature Credit Card,2024-03-18,Active
+PRD-001153,CUST-00412,Online Banking,2024-03-18,Active
+PRD-001154,CUST-00412,Automated Bill Pay,2024-03-18,Active
+PRD-001155,CUST-00413,Automated Bill Pay,2024-10-31,Active
+PRD-001156,CUST-00413,Merchant Card Processing,2024-10-31,Active
+PRD-001157,CUST-00413,Mobile Banking App,2024-10-31,Active
+PRD-001158,CUST-00414,Merchant Card Processing,2021-03-05,Active
+PRD-001159,CUST-00414,Automated Bill Pay,2021-03-05,Active
+PRD-001160,CUST-00414,Wealth Advisory,2021-03-05,Active
+PRD-001161,CUST-00415,Mobile Banking App,2023-06-15,Active
+PRD-001162,CUST-00416,Visa Signature Credit Card,2022-12-26,Active
+PRD-001163,CUST-00416,Automated Bill Pay,2022-12-26,Active
+PRD-001164,CUST-00417,Wealth Advisory,2021-07-01,Active
+PRD-001165,CUST-00417,Mobile Banking App,2021-07-01,Active
+PRD-001166,CUST-00417,Visa Signature Credit Card,2021-07-01,Active
+PRD-001167,CUST-00418,Online Banking,2021-07-21,Active
+PRD-001168,CUST-00418,Wealth Advisory,2021-07-21,Active
+PRD-001169,CUST-00418,Automated Bill Pay,2021-07-21,Active
+PRD-001170,CUST-00418,Mobile Banking App,2021-07-21,Active
+PRD-001171,CUST-00418,Merchant Card Processing,2021-07-21,Active
+PRD-001172,CUST-00419,Mobile Banking App,2021-10-21,Active
+PRD-001173,CUST-00419,Visa Signature Credit Card,2021-10-21,Active
+PRD-001174,CUST-00419,Automated Bill Pay,2021-10-21,Active
+PRD-001175,CUST-00420,Online Banking,2022-04-28,Active
+PRD-001176,CUST-00420,Merchant Card Processing,2022-04-28,Active
+PRD-001177,CUST-00420,Automated Bill Pay,2022-04-28,Active
+PRD-001178,CUST-00420,Visa Signature Credit Card,2022-04-28,Active
+PRD-001179,CUST-00421,Online Banking,2022-11-21,Cancelled
+PRD-001180,CUST-00421,Merchant Card Processing,2022-11-21,Cancelled
+PRD-001181,CUST-00421,Wealth Advisory,2022-11-21,Cancelled
+PRD-001182,CUST-00422,Visa Signature Credit Card,2024-11-14,Active
+PRD-001183,CUST-00422,Mobile Banking App,2024-11-14,Active
+PRD-001184,CUST-00422,Automated Bill Pay,2024-11-14,Active
+PRD-001185,CUST-00422,Online Banking,2024-11-14,Active
+PRD-001186,CUST-00423,Wealth Advisory,2024-06-17,Active
+PRD-001187,CUST-00423,Online Banking,2024-06-17,Active
+PRD-001188,CUST-00423,Automated Bill Pay,2024-06-17,Active
+PRD-001189,CUST-00423,Visa Signature Credit Card,2024-06-17,Active
+PRD-001190,CUST-00423,Mobile Banking App,2024-06-17,Active
+PRD-001191,CUST-00424,Merchant Card Processing,2021-10-23,Cancelled
+PRD-001192,CUST-00424,Online Banking,2021-10-23,Cancelled
+PRD-001193,CUST-00425,Automated Bill Pay,2024-06-02,Active
+PRD-001194,CUST-00425,Online Banking,2024-06-02,Active
+PRD-001195,CUST-00425,Mobile Banking App,2024-06-02,Active
+PRD-001196,CUST-00425,Wealth Advisory,2024-06-02,Active
+PRD-001197,CUST-00426,Merchant Card Processing,2020-09-11,Active
+PRD-001198,CUST-00427,Wealth Advisory,2023-11-11,Cancelled
+PRD-001199,CUST-00427,Mobile Banking App,2023-11-11,Cancelled
+PRD-001200,CUST-00427,Automated Bill Pay,2023-11-11,Cancelled
+PRD-001201,CUST-00427,Online Banking,2023-11-11,Cancelled
+PRD-001202,CUST-00428,Wealth Advisory,2022-01-08,Cancelled
+PRD-001203,CUST-00428,Merchant Card Processing,2022-01-08,Cancelled
+PRD-001204,CUST-00428,Visa Signature Credit Card,2022-01-08,Cancelled
+PRD-001205,CUST-00429,Mobile Banking App,2022-03-22,Cancelled
+PRD-001206,CUST-00429,Merchant Card Processing,2022-03-22,Cancelled
+PRD-001207,CUST-00430,Automated Bill Pay,2021-03-13,Active
+PRD-001208,CUST-00430,Mobile Banking App,2021-03-13,Active
+PRD-001209,CUST-00430,Online Banking,2021-03-13,Active
+PRD-001210,CUST-00430,Visa Signature Credit Card,2021-03-13,Active
+PRD-001211,CUST-00431,Mobile Banking App,2020-01-17,Active
+PRD-001212,CUST-00431,Online Banking,2020-01-17,Active
+PRD-001213,CUST-00432,Visa Signature Credit Card,2020-05-25,Active
+PRD-001214,CUST-00432,Wealth Advisory,2020-05-25,Active
+PRD-001215,CUST-00433,Visa Signature Credit Card,2022-01-22,Active
+PRD-001216,CUST-00434,Merchant Card Processing,2023-10-18,Active
+PRD-001217,CUST-00434,Automated Bill Pay,2023-10-18,Active
+PRD-001218,CUST-00435,Mobile Banking App,2022-06-20,Active
+PRD-001219,CUST-00435,Automated Bill Pay,2022-06-20,Active
+PRD-001220,CUST-00435,Wealth Advisory,2022-06-20,Active
+PRD-001221,CUST-00436,Automated Bill Pay,2021-03-20,Active
+PRD-001222,CUST-00436,Merchant Card Processing,2021-03-20,Active
+PRD-001223,CUST-00436,Mobile Banking App,2021-03-20,Active
+PRD-001224,CUST-00436,Online Banking,2021-03-20,Active
+PRD-001225,CUST-00437,Wealth Advisory,2021-12-20,Active
+PRD-001226,CUST-00437,Merchant Card Processing,2021-12-20,Active
+PRD-001227,CUST-00437,Online Banking,2021-12-20,Active
+PRD-001228,CUST-00437,Visa Signature Credit Card,2021-12-20,Active
+PRD-001229,CUST-00438,Mobile Banking App,2023-05-15,Active
+PRD-001230,CUST-00439,Online Banking,2022-11-26,Active
+PRD-001231,CUST-00439,Merchant Card Processing,2022-11-26,Active
+PRD-001232,CUST-00439,Wealth Advisory,2022-11-26,Active
+PRD-001233,CUST-00440,Online Banking,2024-06-13,Active
+PRD-001234,CUST-00440,Automated Bill Pay,2024-06-13,Active
+PRD-001235,CUST-00441,Online Banking,2020-05-25,Active
+PRD-001236,CUST-00441,Mobile Banking App,2020-05-25,Active
+PRD-001237,CUST-00441,Visa Signature Credit Card,2020-05-25,Active
+PRD-001238,CUST-00442,Merchant Card Processing,2023-03-10,Active
+PRD-001239,CUST-00442,Visa Signature Credit Card,2023-03-10,Active
+PRD-001240,CUST-00442,Online Banking,2023-03-10,Active
+PRD-001241,CUST-00442,Wealth Advisory,2023-03-10,Active
+PRD-001242,CUST-00442,Mobile Banking App,2023-03-10,Active
+PRD-001243,CUST-00443,Automated Bill Pay,2024-04-26,Active
+PRD-001244,CUST-00443,Merchant Card Processing,2024-04-26,Active
+PRD-001245,CUST-00443,Visa Signature Credit Card,2024-04-26,Active
+PRD-001246,CUST-00444,Automated Bill Pay,2024-06-04,Active
+PRD-001247,CUST-00444,Online Banking,2024-06-04,Active
+PRD-001248,CUST-00444,Merchant Card Processing,2024-06-04,Active
+PRD-001249,CUST-00444,Visa Signature Credit Card,2024-06-04,Active
+PRD-001250,CUST-00445,Visa Signature Credit Card,2023-01-06,Active
+PRD-001251,CUST-00445,Online Banking,2023-01-06,Active
+PRD-001252,CUST-00445,Automated Bill Pay,2023-01-06,Active
+PRD-001253,CUST-00445,Mobile Banking App,2023-01-06,Active
+PRD-001254,CUST-00446,Visa Signature Credit Card,2024-07-12,Active
+PRD-001255,CUST-00446,Mobile Banking App,2024-07-12,Active
+PRD-001256,CUST-00446,Merchant Card Processing,2024-07-12,Active
+PRD-001257,CUST-00446,Online Banking,2024-07-12,Active
+PRD-001258,CUST-00447,Automated Bill Pay,2023-08-10,Active
+PRD-001259,CUST-00447,Visa Signature Credit Card,2023-08-10,Active
+PRD-001260,CUST-00447,Online Banking,2023-08-10,Active
+PRD-001261,CUST-00448,Wealth Advisory,2020-06-25,Cancelled
+PRD-001262,CUST-00448,Online Banking,2020-06-25,Cancelled
+PRD-001263,CUST-00449,Visa Signature Credit Card,2024-02-27,Active
+PRD-001264,CUST-00450,Wealth Advisory,2022-10-13,Active
+PRD-001265,CUST-00451,Automated Bill Pay,2024-02-10,Active
+PRD-001266,CUST-00452,Mobile Banking App,2023-12-29,Active
+PRD-001267,CUST-00452,Visa Signature Credit Card,2023-12-29,Active
+PRD-001268,CUST-00452,Online Banking,2023-12-29,Active
+PRD-001269,CUST-00452,Wealth Advisory,2023-12-29,Active
+PRD-001270,CUST-00453,Wealth Advisory,2024-10-25,Active
+PRD-001271,CUST-00454,Merchant Card Processing,2023-10-12,Active
+PRD-001272,CUST-00454,Visa Signature Credit Card,2023-10-12,Active
+PRD-001273,CUST-00455,Wealth Advisory,2020-01-26,Active
+PRD-001274,CUST-00455,Visa Signature Credit Card,2020-01-26,Active
+PRD-001275,CUST-00455,Mobile Banking App,2020-01-26,Active
+PRD-001276,CUST-00455,Online Banking,2020-01-26,Active
+PRD-001277,CUST-00456,Online Banking,2024-10-22,Active
+PRD-001278,CUST-00457,Automated Bill Pay,2021-07-09,Active
+PRD-001279,CUST-00457,Merchant Card Processing,2021-07-09,Active
+PRD-001280,CUST-00458,Automated Bill Pay,2024-07-05,Cancelled
+PRD-001281,CUST-00458,Wealth Advisory,2024-07-05,Cancelled
+PRD-001282,CUST-00459,Wealth Advisory,2024-09-26,Active
+PRD-001283,CUST-00460,Wealth Advisory,2023-02-28,Active
+PRD-001284,CUST-00460,Merchant Card Processing,2023-02-28,Active
+PRD-001285,CUST-00460,Mobile Banking App,2023-02-28,Active
+PRD-001286,CUST-00461,Wealth Advisory,2024-05-08,Cancelled
+PRD-001287,CUST-00462,Automated Bill Pay,2021-12-10,Active
+PRD-001288,CUST-00463,Visa Signature Credit Card,2024-01-29,Active
+PRD-001289,CUST-00463,Mobile Banking App,2024-01-29,Active
+PRD-001290,CUST-00463,Merchant Card Processing,2024-01-29,Active
+PRD-001291,CUST-00464,Mobile Banking App,2020-05-02,Active
+PRD-001292,CUST-00464,Merchant Card Processing,2020-05-02,Active
+PRD-001293,CUST-00465,Automated Bill Pay,2022-04-25,Active
+PRD-001294,CUST-00466,Wealth Advisory,2020-09-30,Active
+PRD-001295,CUST-00466,Automated Bill Pay,2020-09-30,Active
+PRD-001296,CUST-00466,Online Banking,2020-09-30,Active
+PRD-001297,CUST-00467,Merchant Card Processing,2020-09-24,Active
+PRD-001298,CUST-00468,Online Banking,2024-08-30,Cancelled
+PRD-001299,CUST-00468,Merchant Card Processing,2024-08-30,Cancelled
+PRD-001300,CUST-00469,Mobile Banking App,2021-02-19,Active
+PRD-001301,CUST-00470,Mobile Banking App,2020-09-04,Active
+PRD-001302,CUST-00470,Visa Signature Credit Card,2020-09-04,Active
+PRD-001303,CUST-00470,Online Banking,2020-09-04,Active
+PRD-001304,CUST-00470,Merchant Card Processing,2020-09-04,Active
+PRD-001305,CUST-00471,Automated Bill Pay,2020-07-04,Active
+PRD-001306,CUST-00471,Mobile Banking App,2020-07-04,Active
+PRD-001307,CUST-00471,Visa Signature Credit Card,2020-07-04,Active
+PRD-001308,CUST-00472,Automated Bill Pay,2023-12-27,Cancelled
+PRD-001309,CUST-00472,Wealth Advisory,2023-12-27,Cancelled
+PRD-001310,CUST-00473,Merchant Card Processing,2020-12-22,Active
+PRD-001311,CUST-00473,Online Banking,2020-12-22,Active
+PRD-001312,CUST-00474,Automated Bill Pay,2020-07-27,Active
+PRD-001313,CUST-00474,Mobile Banking App,2020-07-27,Active
+PRD-001314,CUST-00474,Wealth Advisory,2020-07-27,Active
+PRD-001315,CUST-00474,Visa Signature Credit Card,2020-07-27,Active
+PRD-001316,CUST-00475,Mobile Banking App,2021-02-09,Active
+PRD-001317,CUST-00475,Wealth Advisory,2021-02-09,Active
+PRD-001318,CUST-00475,Visa Signature Credit Card,2021-02-09,Active
+PRD-001319,CUST-00476,Merchant Card Processing,2020-02-14,Active
+PRD-001320,CUST-00476,Mobile Banking App,2020-02-14,Active
+PRD-001321,CUST-00476,Visa Signature Credit Card,2020-02-14,Active
+PRD-001322,CUST-00476,Automated Bill Pay,2020-02-14,Active
+PRD-001323,CUST-00477,Online Banking,2024-07-14,Active
+PRD-001324,CUST-00478,Wealth Advisory,2023-03-21,Active
+PRD-001325,CUST-00478,Automated Bill Pay,2023-03-21,Active
+PRD-001326,CUST-00478,Merchant Card Processing,2023-03-21,Active
+PRD-001327,CUST-00479,Online Banking,2021-03-15,Active
+PRD-001328,CUST-00479,Mobile Banking App,2021-03-15,Active
+PRD-001329,CUST-00479,Automated Bill Pay,2021-03-15,Active
+PRD-001330,CUST-00480,Visa Signature Credit Card,2023-06-17,Active
+PRD-001331,CUST-00480,Automated Bill Pay,2023-06-17,Active
+PRD-001332,CUST-00481,Online Banking,2021-07-26,Active
+PRD-001333,CUST-00481,Visa Signature Credit Card,2021-07-26,Active
+PRD-001334,CUST-00482,Online Banking,2023-07-15,Cancelled
+PRD-001335,CUST-00482,Mobile Banking App,2023-07-15,Cancelled
+PRD-001336,CUST-00483,Merchant Card Processing,2022-09-19,Active
+PRD-001337,CUST-00483,Wealth Advisory,2022-09-19,Active
+PRD-001338,CUST-00483,Online Banking,2022-09-19,Active
+PRD-001339,CUST-00483,Automated Bill Pay,2022-09-19,Active
+PRD-001340,CUST-00484,Online Banking,2021-03-24,Active
+PRD-001341,CUST-00484,Visa Signature Credit Card,2021-03-24,Active
+PRD-001342,CUST-00484,Automated Bill Pay,2021-03-24,Active
+PRD-001343,CUST-00484,Wealth Advisory,2021-03-24,Active
+PRD-001344,CUST-00485,Visa Signature Credit Card,2023-04-11,Active
+PRD-001345,CUST-00485,Online Banking,2023-04-11,Active
+PRD-001346,CUST-00485,Automated Bill Pay,2023-04-11,Active
+PRD-001347,CUST-00485,Mobile Banking App,2023-04-11,Active
+PRD-001348,CUST-00486,Wealth Advisory,2024-07-29,Active
+PRD-001349,CUST-00486,Online Banking,2024-07-29,Active
+PRD-001350,CUST-00486,Merchant Card Processing,2024-07-29,Active
+PRD-001351,CUST-00486,Mobile Banking App,2024-07-29,Active
+PRD-001352,CUST-00487,Mobile Banking App,2024-09-14,Cancelled
+PRD-001353,CUST-00487,Merchant Card Processing,2024-09-14,Cancelled
+PRD-001354,CUST-00488,Merchant Card Processing,2023-04-26,Active
+PRD-001355,CUST-00488,Wealth Advisory,2023-04-26,Active
+PRD-001356,CUST-00488,Online Banking,2023-04-26,Active
+PRD-001357,CUST-00489,Automated Bill Pay,2022-10-05,Active
+PRD-001358,CUST-00489,Visa Signature Credit Card,2022-10-05,Active
+PRD-001359,CUST-00490,Automated Bill Pay,2021-03-24,Active
+PRD-001360,CUST-00491,Visa Signature Credit Card,2021-11-28,Active
+PRD-001361,CUST-00491,Automated Bill Pay,2021-11-28,Active
+PRD-001362,CUST-00491,Mobile Banking App,2021-11-28,Active
+PRD-001363,CUST-00492,Visa Signature Credit Card,2020-10-17,Active
+PRD-001364,CUST-00493,Wealth Advisory,2020-07-25,Cancelled
+PRD-001365,CUST-00493,Online Banking,2020-07-25,Cancelled
+PRD-001366,CUST-00493,Automated Bill Pay,2020-07-25,Cancelled
+PRD-001367,CUST-00493,Visa Signature Credit Card,2020-07-25,Cancelled
+PRD-001368,CUST-00494,Merchant Card Processing,2024-06-09,Active
+PRD-001369,CUST-00494,Visa Signature Credit Card,2024-06-09,Active
+PRD-001370,CUST-00494,Wealth Advisory,2024-06-09,Active
+PRD-001371,CUST-00494,Mobile Banking App,2024-06-09,Active
+PRD-001372,CUST-00495,Mobile Banking App,2023-06-10,Cancelled
+PRD-001373,CUST-00495,Wealth Advisory,2023-06-10,Cancelled
+PRD-001374,CUST-00495,Automated Bill Pay,2023-06-10,Cancelled
+PRD-001375,CUST-00496,Mobile Banking App,2020-12-29,Active
+PRD-001376,CUST-00496,Online Banking,2020-12-29,Active
+PRD-001377,CUST-00497,Merchant Card Processing,2021-01-07,Active
+PRD-001378,CUST-00497,Visa Signature Credit Card,2021-01-07,Active
+PRD-001379,CUST-00497,Online Banking,2021-01-07,Active
+PRD-001380,CUST-00498,Visa Signature Credit Card,2023-03-04,Cancelled
+PRD-001381,CUST-00498,Automated Bill Pay,2023-03-04,Cancelled
+PRD-001382,CUST-00498,Wealth Advisory,2023-03-04,Cancelled
+PRD-001383,CUST-00498,Online Banking,2023-03-04,Cancelled
+PRD-001384,CUST-00499,Visa Signature Credit Card,2021-10-16,Active
+PRD-001385,CUST-00499,Merchant Card Processing,2021-10-16,Active
+PRD-001386,CUST-00499,Automated Bill Pay,2021-10-16,Active
+PRD-001387,CUST-00500,Online Banking,2020-05-18,Active
